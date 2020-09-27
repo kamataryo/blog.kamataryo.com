@@ -1,6 +1,6 @@
 {
   "scripts": {
     "start": "bash tools/run.sh",
-    "build": "bash tools/build.sh -d ./docs"
+    "build": "bash tools/build.sh"
   }
 }
