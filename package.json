@@ -1,6 +1,7 @@
 {
   "scripts": {
     "start": "bash tools/run.sh",
+    "build": "bash tools/build.sh",
     "publish": "bash tools/publish.sh"
   }
 }
