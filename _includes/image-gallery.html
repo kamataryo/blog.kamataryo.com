@@ -1,0 +1,36 @@
+<style>
+.image-gallery {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 2rem;
+}
+.image-gallery li {
+  margin: 0.3rem;
+}
+.image-gallery img {
+  max-width: 200px;
+}
+@media all and (max-width: 830px) {
+  .image-gallerty {
+    display: block
+  }
+  .image-gallery img {
+    max-width: 100%;
+  }
+}
+</style>
+
+<ul class="image-gallery">
+  {% for file in site.static_files %}
+    {% if file.path contains include.folder %}
+      {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
+      <li>
+        <a href="{{ file.path }}">
+          <img src="{{ file.path }}" />
+        </a>
+      </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</ul>

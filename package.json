@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "bash tools/run.sh",
-    "build": "bash tools/build.sh"
+    "start": "bash tools/run.sh --realtime",
+    "build": "bash tools/build.sh && echo 'blog.kamataryo.com' > _site/CNAME"
   }
 }
