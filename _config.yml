@@ -7,9 +7,12 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: blog.kamataryo.com              # the main title
+title: Antarctic Char              # the main title
 
-tagline: A blog.                       # it will display as the sub-title
+tagline: >-                       # it will display as the sub-title
+  Nature, bushcraft, wildlives and tech.
+
+lang: ja_JP
 
 description: >-                        # used by seo meta and the atom feed
   Nature, bushcraft, wildlives and tech.
@@ -76,7 +79,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dual
+theme_mode: dark
 
 # boolean type, global switch for ToC in posts.
 toc: true
