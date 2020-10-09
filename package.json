@@ -2,5 +2,9 @@
   "scripts": {
     "start": "bash tools/run.sh --realtime",
     "build": "bash tools/build.sh && echo 'blog.kamataryo.com' > _site/CNAME"
+  },
+  "devDependencies": {
+    "@mapbox/togeojson": "^0.16.0",
+    "xmldom": "^0.3.0"
   }
 }

@@ -186,6 +186,7 @@ exclude:
   - docs
   - README.md
   - LICENSE
+  - bin
 
 sitemap_exclude:  # Sitemap will exclude the following items.
   fuzzy:
