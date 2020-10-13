@@ -10,12 +10,12 @@
 title: Antarctic Char              # the main title
 
 tagline: >-                       # it will display as the sub-title
-  Nature, bushcraft, wildlives and tech.
+  nature, wildlives, bushcraft and tech.
 
 lang: ja_JP
 
 description: >-                        # used by seo meta and the atom feed
-  Nature, bushcraft, wildlives and tech.
+  ポスト・アポカリプスに備えるブログ。自然、野生生物、ブッシュクラフト、テック。
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://blog.kamataryo.com'

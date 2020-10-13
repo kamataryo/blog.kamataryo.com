@@ -8,4 +8,5 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+ポスト・アポカリプスに備えるブログ。  
+習得した生産手段や活動記録を投稿しています。
