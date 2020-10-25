@@ -5,7 +5,12 @@ date: 2020-10-09 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 瀬戸内海, 公共構造物, 海]
 image: /assets/img/posts/2020-10-09/top.jpg
-trace: /assets/geojson/2020-10-09-kayak-kakui-island.geojson
+GeoloniaEmbed: true
+GeoloniaPlugins:
+  - fixed-map-plugin
+GeoloniaAttributes:
+  - key: geojson
+    value: /assets/geojson/2020-10-09-kayak-kakui-island.geojson
 ---
 
 岡山県日生町の有人島、鹿久居島（かくいじま）をカヤックで一周した。
@@ -55,11 +60,11 @@ trace: /assets/geojson/2020-10-09-kayak-kakui-island.geojson
 
 {% include image-gallery.html folder="/assets/img/posts/2020-10-09/20" %}
 
-## 鹿久居島北岸、備前♡日生大橋、スナメリ
+## 鹿久居島北岸、備前 ♡ 日生大橋、スナメリ
 
 鹿久居島の北岸は海岸線のほぼ全ての場所にカキ養殖の抑制棚が設置されていて、大量の採苗連が吊るされていた。
 
-鹿久居島と本州を結ぶ橋は備前♡日生大橋で、ハート♡の文字が入っている珍しい名前の公共構造物。国土地理院の地図でも♡が入っていたが、海上保安庁の海図ではノリが悪く備前日生大橋というラベルになっていた。
+鹿久居島と本州を結ぶ橋は備前 ♡ 日生大橋で、ハート ♡ の文字が入っている珍しい名前の公共構造物。国土地理院の地図でも ♡ が入っていたが、海上保安庁の海図ではノリが悪く備前日生大橋というラベルになっていた。
 
 鹿久居島と本州の間は「うちわだの瀬戸」という湾曲した水路になっていて、白いエビがたくさん棲んでいるらしく、カヤックに驚いて水面から跳ねていた。
 
@@ -81,4 +86,3 @@ trace: /assets/geojson/2020-10-09-kayak-kakui-island.geojson
 - ウェアはドライスーツを持って行ったが、これは正解。水温はまだ高いが、気温は低く雨で濡れっぱなしだった
 
 {% include image-gallery.html folder="/assets/img/posts/2020-10-09/40" %}
-

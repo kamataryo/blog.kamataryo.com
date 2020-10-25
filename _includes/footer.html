@@ -31,4 +31,10 @@
 
   </div> <!-- div.d-flex -->
 </footer>
-<script src="https://cdn.geolonia.com/v1/embed?geolonia-api-key={{ site.geolonia.mapKey }}"></script>
+
+{% if page.GeoloniaEmbed %}
+  <script src="https://cdn.geolonia.com/v1/embed?geolonia-api-key={{ site.geolonia.mapKey }}"></script>
+  {% for plugin in page.GeoloniaPlugins %}
+    <script src="https://cdn.geolonia.com/v1/{{plugin}}@latest"></script>
+  {% endfor %}
+{% endif %}
