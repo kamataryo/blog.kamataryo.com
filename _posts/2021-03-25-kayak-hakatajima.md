@@ -9,8 +9,6 @@ GeoloniaEmbed: true
 GeoloniaPlugins:
   - fixed-map-plugin
 GeoloniaAttributes:
-  - key: hash
-    value: on
   - key: geojson
     value: "#point"
   - key: zoom
