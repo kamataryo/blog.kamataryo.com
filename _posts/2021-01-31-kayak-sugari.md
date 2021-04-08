@@ -4,7 +4,7 @@ author: kamataryo
 date: 2021-01-31 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 紀伊半島, 海]
-image: /assets/img/posts/2021-01-31/03/IMG_8882.jpg
+image: /assets/img/posts/2021/01/31/03/IMG_8882.jpg
 GeoloniaEmbed: true
 GeoloniaPlugins:
   - fixed-map-plugin
@@ -25,19 +25,19 @@ GeoloniaAttributes:
 
 国道42号が調子川を横断する銚子橋より河口は感潮域で、ゆらゆら帯と呼ばれる塩水くさびが観察できる。干潮でなければギリギリカヤックで通過できた。
 
-{% include image-gallery.html folder="/assets/img/posts/2021-01-31/01" %}
+{% include image-gallery.html folder="/assets/img/posts/2021/01/31/01" %}
 
 ## 河口から須賀利半島へ
 
 須賀利半島沿岸は海食崖が発達した景観が見られる。洞窟などもあり、かなり見応えがあるが、隠れ岩が多くうねりがあるとブーマーになってかなり危ないように感じる。崖下が棚上になっていて渡船で渡ってくる釣り客が多い。
 
-{% include image-gallery.html folder="/assets/img/posts/2021-01-31/02" %}
+{% include image-gallery.html folder="/assets/img/posts/2021/01/31/02" %}
 
 右手には佐波留島（さばるじま）があり、ここはアオサギの繁殖地として[県指定の天然記念物](https://www.bunka.pref.mie.lg.jp/Miebunka/mobile/bunkazaiMobile/detail/730697) になっているけれど、数年前に仕事で行った際は営巣後を含めて全くアオサギの痕跡はなかった。サギ類の営巣地はちょっとした環境の変化ですぐ変わるものと思っている。
 
 須賀利半島には3つの半島に囲まれた2つの湾があって、東側の湾の奥に須賀利の集落、西側の湾の奥に須賀利大池がある。この時は外洋からの強い風が山を乗り越えて吹いており、かなり船足が遅くなった。
 
-{% include image-gallery.html folder="/assets/img/posts/2021-01-31/03" %}
+{% include image-gallery.html folder="/assets/img/posts/2021/01/31/03" %}
 
 
 ## 須賀利大池
@@ -47,7 +47,7 @@ GeoloniaAttributes:
 また、[ハマナツメ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%83%8A%E3%83%84%E3%83%A1)という植物のほぼ北限になっていて、最大級の群落がかつてはあったらしいが、近年著しく衰退していてる。ニホンジカの食害とカワウの営巣による湖の水質悪化が原因と言われている。
 
 
-{% include image-gallery.html folder="/assets/img/posts/2021-01-31/04" %}
+{% include image-gallery.html folder="/assets/img/posts/2021/01/31/04" %}
 
 
 ## 総括

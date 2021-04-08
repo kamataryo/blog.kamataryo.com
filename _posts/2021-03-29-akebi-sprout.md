@@ -4,7 +4,7 @@ author: kamataryo
 date: 2021-03-29 12:00:00 +0900
 categories: [野草食]
 tags: [植物, アケビ, 料理]
-image: /assets/img/posts/2021-03-29/IMG_9922.jpg
+image: /assets/img/posts/2021/03/29/IMG_9922.jpg
 ---
 
 春になってアケビの芽が伸びている。山菜として食べられるらしいので試してみた。
@@ -17,4 +17,4 @@ image: /assets/img/posts/2021-03-29/IMG_9922.jpg
 
 もやしのナムルがあったので一緒につけたりしてみた。プツプツとした食感で食味がよく、ビールなどに合いそうな味がする。柔らかくなってしまわないように茹で過ぎない方が良さそう。
 
-{% include image-gallery.html folder="/assets/img/posts/2021-03-29/01" %}
+{% include image-gallery.html folder="/assets/img/posts/2021/03/29/01" %}

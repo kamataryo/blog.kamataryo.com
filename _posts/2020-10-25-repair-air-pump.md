@@ -4,7 +4,7 @@ author: kamataryo
 date: 2020-10-25 09:00:00 +0900
 categories: [DIY]
 tags: [自転車]
-image: /assets/img/posts/2020-10-25/top.jpg
+image: /assets/img/posts/2020/10/25/top.jpg
 ---
 
 [Topeak](https://topeak.jp/index.html) のジョーブロースポーツを 15 年ほど使っていて、最近思うように空気を圧縮してくれなくなった。手応えがなく、高速でポンプしないと圧が上がらない。O リングのグリス切れのようなので、グリスを塗布して修理してみる。
@@ -19,12 +19,12 @@ image: /assets/img/posts/2020-10-25/top.jpg
 
 底部の踏板はボルトで固定されているので 4mm ヘックスレンチで外す。バルブやエアメーターも一緒に外れる。キャップの隙間にマイナスドライバーを差し込んで、ハンマーで叩くなどすると、シリンダーにアクセスできる。
 
-{% include image-gallery.html folder="/assets/img/posts/2020-10-25/01" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/10/25/01" %}
 
 あとはピストンにグリスを塗りたくって組み立て直せば修理完了。  
 手応えが回復し、ちゃんと空気が入れられるようになった。
 
-{% include image-gallery.html folder="/assets/img/posts/2020-10-25/02" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/10/25/02" %}
 
 ---
 

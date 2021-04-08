@@ -4,7 +4,7 @@ author: kamataryo
 date: 2020-11-01 09:00:00 +0900
 categories: [DIY, カヤック]
 tags: []
-image: /assets/img/posts/2020-11-01/top.jpg
+image: /assets/img/posts/2020/11/01/top.jpg
 ---
 
 モンベルのエルズミア 480 というシーカヤックを使っている。
@@ -19,13 +19,13 @@ image: /assets/img/posts/2020-11-01/top.jpg
 
 リブチャンネル自体はモンベルのサポートに問い合わせると 200 円/個 で購入することができる。ボルトは 100 円/個だが、規格品なのでホームセンターでもっと安く買える。ボルトは全て M4 のステンレスさらボルトで、20mm と 25mm の 2 種類がある。
 
-{% include image-gallery.html folder="/assets/img/posts/2020-11-01/01" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/11/01/01" %}
 
 なくなったボルトを補充し、ネジロック剤を塗り直しておいた。ネジロック剤は高くてすぐなくなったので、大容量のものを買った方がいいかもしれない。
 
 スペアパーツとしてリブチャンネルとボルト数本をリペアキットに入れておいた。ダクトテープ、乾いたタオル（スキンが敗れたときに水気を拭き取る用）、針金、ビニールテープ、スキンにフレームを入れるためのテンションロープのスペアなども一緒に入れている。
 
-{% include image-gallery.html folder="/assets/img/posts/2020-11-01/02" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/11/01/02" %}
 
 ---
 

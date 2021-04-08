@@ -4,7 +4,7 @@ author: kamataryo
 date: 2021-04-03 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 琵琶湖, 湖]
-image: /assets/img/posts/2021-04-03/01/IMG_0070.jpg
+image: /assets/img/posts/2021/04/03/01/IMG_0070.jpg
 GeoloniaEmbed: true
 GeoloniaPlugins:
   - fixed-map-plugin
@@ -24,7 +24,7 @@ GeoloniaAttributes:
 
 湖周長は55kmほどらしく、今回は湖岸で1泊して周囲をぐるっと回ってみた。
 
-{% include image-gallery.html folder="/assets/img/posts/2021-04-03/01" %}
+{% include image-gallery.html folder="/assets/img/posts/2021/04/03/01" %}
 
 ## 出艇 上戸浜〜湖南
 
@@ -34,13 +34,13 @@ GeoloniaAttributes:
 
 見かけた釣り客は全てがフライフィッシングをしていた。
 
-{% include image-gallery.html folder="/assets/img/posts/2021-04-03/02" %}
+{% include image-gallery.html folder="/assets/img/posts/2021/04/03/02" %}
 
 ## 湖東無人地帯〜中田浜
 
 湖南をすぎた頃に、南の谷から吹き込んでくる風が強まり海況が荒れた。追い風を使って湖東の無人地帯を抜け、中田浜に上陸した。海側は会員制のビーチらしく、内湾になっている公共の海水浴場でテント泊。他にも何組かキャンプ客がいた。
 
-{% include image-gallery.html folder="/assets/img/posts/2021-04-03/03" %}
+{% include image-gallery.html folder="/assets/img/posts/2021/04/03/03" %}
 
 ## 中田浜〜湖北〜上戸浜
 
@@ -48,7 +48,7 @@ GeoloniaAttributes:
 
 出艇地点に近づくと逆風になったので頑張って漕いで行程完了。
 
-{% include image-gallery.html folder="/assets/img/posts/2021-04-03/04" %}
+{% include image-gallery.html folder="/assets/img/posts/2021/04/03/04" %}
 
 ## 総括
 

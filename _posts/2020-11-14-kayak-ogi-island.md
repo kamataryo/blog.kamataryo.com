@@ -4,7 +4,7 @@ author: kamataryo
 date: 2020-11-14 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 瀬戸内海, 海]
-image: /assets/img/posts/2020-11-14/top.jpg
+image: /assets/img/posts/2020/11/14/top.jpg
 GeoloniaEmbed: true
 GeoloniaPlugins:
   - fixed-map-plugin
@@ -45,7 +45,7 @@ GeoloniaAttributes:
 
 遊漁船の合間を縫って大島に漕いだが、移動している遊漁船が多く神経を使う。
 
-{% include image-gallery.html folder="/assets/img/posts/2020-11-14/01" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/11/14/01" %}
 
 ## 大島から男木島
 
@@ -54,7 +54,7 @@ GeoloniaAttributes:
 
 大きく波が立っているところなどもあり、海状からはなぜそうなるのか予測できなかったが、後から海図の海底地形と照らしてみると納得できるところもあった。例えば急激に浅くなっているところがそれで、男木島東のドロ瀬という堆の付近は風がないのに荒れていた。
 
-{% include image-gallery.html folder="/assets/img/posts/2020-11-14/02" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/11/14/02" %}
 
 ## 男木島から帰る
 
@@ -72,7 +72,7 @@ GeoloniaAttributes:
 
 御殿の浜の付近に戻るとほぼ遊漁船はいなくなっていた。天気が良くカヤックを乾かせたので、車が潮まみれにならなくて済む。
 
-{% include image-gallery.html folder="/assets/img/posts/2020-11-14/03" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/11/14/03" %}
 
 ## 総括
 

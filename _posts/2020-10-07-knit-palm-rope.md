@@ -4,7 +4,7 @@ author: kamataryo
 date: 2020-10-07 10:00:00 +0900
 categories: [ネイチャークラフト]
 tags: [シュロ縄, トウジュロ, ワジュロ, シュロ, 植物]
-image: /assets/img/posts/2020-10-07/top.jpg
+image: /assets/img/posts/2020/10/07/top.jpg
 ---
 
 庭のシュロの皮の繊維を撚ってロープを作った。
@@ -16,14 +16,14 @@ image: /assets/img/posts/2020-10-07/top.jpg
 
 剥いた皮は繊維の塊で、水を吸わせると解いたり整形しやすくなる。
 
-{% include image-gallery.html folder="/assets/img/posts/2020-10-07/20" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/10/07/20" %}
 
 ## 撚る
 
 水に浸したシュロの皮を細長く伸ばして撚っていく。足の指で端を掴んで固定し、両手を使って稲藁を撚る要領で縄にしていく。シュロの皮が足りなくなったら適当な量を編み込んでつなげていく。  
 繊維どうしが絡みやすいので比較的簡単に撚ることができると感じた。
 
-{% include image-gallery.html folder="/assets/img/posts/2020-10-07/30" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/10/07/30" %}
 
 ---
 

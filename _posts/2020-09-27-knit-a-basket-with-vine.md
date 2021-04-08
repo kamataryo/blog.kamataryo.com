@@ -4,7 +4,7 @@ author: kamataryo
 date: 2020-09-27 10:00:00 +0900
 categories: [ネイチャークラフト]
 tags: [葛籠,植物]
-image: /assets/img/posts/2020-09-27/top.jpg
+image: /assets/img/posts/2020/09/27/top.jpg
 ---
 
 大量のオオツヅラフジを採集できたのでバスケットを作った。  
@@ -25,7 +25,7 @@ image: /assets/img/posts/2020-09-27/top.jpg
 剪定挟を使ってなるべくきれいな部分が長く取れるようにする。  
 切り取ったら丸めて持ち帰る。
 
-{% include image-gallery.html folder="/assets/img/posts/2020-09-27/00" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/09/27/00" %}
 
 ## 作り方
 
@@ -37,7 +37,7 @@ image: /assets/img/posts/2020-09-27/top.jpg
 骨組みの数を奇数にするのは、つるを巻いていく過程で巻きが上下になるようにするため。  
 また、骨組みはできあがるサイズよりある程度長めにしておいた方が調整しやすくなる。
 
-{% include image-gallery.html folder="/assets/img/posts/2020-09-27/10" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/09/27/10" %}
 
 ### つるを巻く
 
@@ -46,7 +46,7 @@ image: /assets/img/posts/2020-09-27/top.jpg
 つるが足りなくなったら古いつるを折り込んで隠し、新しいつるを足す。  
 全体の形を調整しながらどんどん巻いていく。
 
-{% include image-gallery.html folder="/assets/img/posts/2020-09-27/20" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/09/27/20" %}
 
 
 ### 巻き終わりとふちの処理
@@ -55,7 +55,7 @@ image: /assets/img/posts/2020-09-27/top.jpg
 骨組みをふちに添わせて折り込み、つるを巻いて固定する。  
 折り込んだ骨組みが長い方がきれいに整形できる。お好みで取手などを付ける。
 
-{% include image-gallery.html folder="/assets/img/posts/2020-09-27/30" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/09/27/30" %}
 
 ---
 

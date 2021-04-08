@@ -4,21 +4,21 @@ author: kamataryo
 date: 2020-10-06 12:00:00 +0900
 categories: [野草食]
 tags: [植物, オニグルミ, 料理]
-image: /assets/img/posts/2020-10-06/top.jpg
+image: /assets/img/posts/2020/10/06/top.jpg
 ---
 
 脂質が多いオニグルミ。どのくらい食べると腹に溜まるのかを考えた。
 
 ## 殻付きくるみの重量
 
-{% include image-gallery.html folder="/assets/img/posts/2020-10-06/10" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/10/06/10" %}
 
 在庫のオニグルミの実を適当に選んで軽量したところ、重量は殻付きで 9 個あたり 56g だった。
 大きいものも小さいもののも混じっている。
 
 ## むきぐるみの重量
 
-{% include image-gallery.html folder="/assets/img/posts/2020-10-06/20" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/10/06/20" %}
 
 フライパンで種子をローストし、可食部の仁（胚乳と子葉が含まれる）を取り出してむきぐるみにした。
 1 つの種子は仁がヘナヘナスカスカで食用にならなかった。  

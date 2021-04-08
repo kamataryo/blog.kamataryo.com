@@ -4,7 +4,7 @@ author: kamataryo
 date: 2021-03-25 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 瀬戸内海, 海]
-image: /assets/img/posts/2021-03-25/01/IMG_9836.jpg
+image: /assets/img/posts/2021/03/25/01/IMG_9836.jpg
 GeoloniaEmbed: true
 GeoloniaPlugins:
   - fixed-map-plugin
@@ -63,4 +63,4 @@ GeoloniaAttributes:
 ビーチの沖はすぐそこが瀬戸内海航路になっていて、タンカーや大型船がたくさん通過する。ビーチには休憩所が併設されていて、過ごしやすい場所。
 
 
-{% include image-gallery.html folder="/assets/img/posts/2021-03-25/01" %}
+{% include image-gallery.html folder="/assets/img/posts/2021/03/25/01" %}

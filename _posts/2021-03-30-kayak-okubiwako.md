@@ -4,7 +4,7 @@ author: kamataryo
 date: 2021-03-30 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 琵琶湖, 湖]
-image: /assets/img/posts/2021-03-30/01/IMG_9930.jpg
+image: /assets/img/posts/2021/03/30/01/IMG_9930.jpg
 GeoloniaEmbed: true
 GeoloniaPlugins:
   - fixed-map-plugin
@@ -71,5 +71,5 @@ GeoloniaAttributes:
 
 カンムリカイツブリが夏羽になり、カモも飛び去っていくのが見えた。
 
-{% include image-gallery.html folder="/assets/img/posts/2021-03-30/01" %}
+{% include image-gallery.html folder="/assets/img/posts/2021/03/30/01" %}
 

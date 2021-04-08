@@ -4,7 +4,7 @@ author: kamataryo
 date: 2020-10-09 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 瀬戸内海, 公共構造物, 海]
-image: /assets/img/posts/2020-10-09/top.jpg
+image: /assets/img/posts/2020/10/09/top.jpg
 GeoloniaEmbed: true
 GeoloniaPlugins:
   - fixed-map-plugin
@@ -47,7 +47,7 @@ GeoloniaAttributes:
 
 事前の予想どおり追い風と追い潮だったので良いペースで進む。
 
-{% include image-gallery.html folder="/assets/img/posts/2020-10-09/10" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/10/09/10" %}
 
 ## 鹿久居島南岸、鶴島、頭島
 
@@ -58,7 +58,7 @@ GeoloniaAttributes:
 鹿久居島と頭島（かしらじま）を結ぶ頭島大橋を抜けると島が入り組んだ景観が広がっていて、なおかつカヤックで容易に水路に進入していける距離感なので、まるで迷路にいるような印象を受ける。  
 鹿久居島の西部の海峡は小豆島と日生町を結ぶ両備フェリーの航路になっている。
 
-{% include image-gallery.html folder="/assets/img/posts/2020-10-09/20" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/10/09/20" %}
 
 ## 鹿久居島北岸、備前 ♡ 日生大橋、スナメリ
 
@@ -72,7 +72,7 @@ GeoloniaAttributes:
 
 がんばって風上の出艇地点に漕ぎあがり、上陸して、カヤックを分解して撤収。
 
-{% include image-gallery.html folder="/assets/img/posts/2020-10-09/30" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/10/09/30" %}
 
 ## 総括
 
@@ -85,4 +85,4 @@ GeoloniaAttributes:
 - 今回は海図を携行しない代わりに Garmin ウォッチの地図を本格的に使ってみた。Apple Watch に比べれば電池の持ちは遥かにいい（無充電で数週間持つ）し、オフラインで地図も使えるので便利
 - ウェアはドライスーツを持って行ったが、これは正解。水温はまだ高いが、気温は低く雨で濡れっぱなしだった
 
-{% include image-gallery.html folder="/assets/img/posts/2020-10-09/40" %}
+{% include image-gallery.html folder="/assets/img/posts/2020/10/09/40" %}
