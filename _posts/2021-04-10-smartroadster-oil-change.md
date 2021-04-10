@@ -3,7 +3,7 @@ title: スマートロードスターのオイル交換
 author: kamataryo
 date: 2021-04-10 10:00:00 +0900
 categories: [DIY]
-tags: [車,オイル交換]
+tags: [車,smartroadster,オイル交換]
 image: /assets/img/posts/2021/04/10/top.jpg
 ---
 
@@ -18,7 +18,7 @@ image: /assets/img/posts/2021/04/10/top.jpg
 ### 消耗品
 
 - オイル 10W-40 3リットルくらい
-- オイルフィルター BOSCHE P9127
+- オイルフィルター BOSCH P9127
 
 ### 工具
 
