@@ -26,4 +26,27 @@ geojson.features[0].properties.coordTimes = geojson.features[0].properties.coord
 geojson.features[0].geometry.coordinates = geojson.features[0].geometry.coordinates.filter(mabikiFilter)
 geojson.features[0].geometry.coordinates = geojson.features[0].geometry.coordinates.map(noAltMapper)
 
+const startFeature = {
+    type: 'Feature',
+    properties: {
+        title: '始点'
+    },
+    geometry: {
+        type: 'Point',
+        coordinates: geojson.features[0].geometry.coordinates[0]
+    }
+}
+const endFeature = {
+    type: 'Feature',
+    properties: {
+        title: '終点'
+    },
+    geometry: {
+        type: 'Point',
+        coordinates: geojson.features[0].geometry.coordinates[geojson.features[0].geometry.coordinates.length - 1]
+    }
+}
+
+geojson.features = [startFeature, endFeature, ...geojson.features]
+
 process.stdout.write(JSON.stringify(geojson, null, 2 ))
