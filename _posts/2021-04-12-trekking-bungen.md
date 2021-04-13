@@ -11,6 +11,8 @@ GeoloniaPlugins:
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2021-04-12-trekking-bungen.geojson
+  - key: cluster
+    value: off
   - key: style
     value: https://raw.githubusercontent.com/geolonia/outdoors/master/style.json
 ---
