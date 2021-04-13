@@ -3,7 +3,7 @@ title: プラリペアでプラスチックの造形補修を試してみた
 author: kamataryo
 date: 2021-02-03 09:00:00 +0900
 categories: [DIY]
-tags: [車,プラスチック,造形補修,SmartRoadster]
+tags: [車,プラスチック,造形補修,smartroadster]
 image: /assets/img/posts/2021/02/03/03/01.jpeg
 ---
 
