@@ -15,6 +15,6 @@ image: /assets/img/posts/2021/04/11/top.jpg
 
 ---
 
-スマートロードスターに適合するターボフィルターは、BOSCH の S 3739 という型番の製品のようだ。
+スマートロードスターに適合するターボフィルターは、BOSCH の **S 3739** という型番の製品のようだ。
 
 {% include image-gallery.html folder="/assets/img/posts/2021/04/11/01" %}
