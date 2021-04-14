@@ -3,7 +3,7 @@ title: 瀬戸内海カヤックツーリング 男木島
 author: kamataryo
 date: 2020-11-14 10:00:00 +0900
 categories: [カヤック]
-tags: [旅行, 瀬戸内海, 海]
+tags: [旅行, 瀬戸内海, 海, 男木島, 島渡り]
 image: /assets/img/posts/2020/11/14/top.jpg
 GeoloniaEmbed: true
 GeoloniaPlugins:
