@@ -4,8 +4,8 @@
     height: 300px;
   }
   .geolonia.fixed {
-    width: 300px;
-    height: 200px;
+    width: 140px;
+    height: 180px;
     z-index: 100000;
   }
 </style>
@@ -13,5 +13,6 @@
 <div class="geolonia"
  {% for attribute in page.GeoloniaAttributes %}
    data-{{attribute.key}}="{{attribute.value}}"
+   data-fullscreen-control="on"
  {% endfor %}
 ></div>
