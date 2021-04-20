@@ -5,6 +5,7 @@
   },
   "devDependencies": {
     "@mapbox/togeojson": "^0.16.0",
+    "exif": "^0.6.0",
     "xmldom": "^0.3.0"
   }
 }
