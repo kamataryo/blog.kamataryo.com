@@ -1,5 +1,5 @@
 ---
-title: 瀬戸内海カヤックツーリング 鹿久居島1周
+title: 瀬戸内海カヤックツーリング 鹿久居島一周
 author: kamataryo
 date: 2020-10-09 10:00:00 +0900
 categories: [カヤック]

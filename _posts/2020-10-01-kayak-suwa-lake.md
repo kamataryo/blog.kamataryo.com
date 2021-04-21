@@ -1,5 +1,5 @@
 ---
-title: 諏訪湖1周カヤックツーリング
+title: 諏訪湖一周カヤックツーリング
 author: kamataryo
 date: 2020-10-01 10:00:00 +0900
 categories: [カヤック]
