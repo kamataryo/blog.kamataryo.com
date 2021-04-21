@@ -2,7 +2,7 @@
 title: 植物のつるでバスケットを編む
 author: kamataryo
 date: 2020-09-27 10:00:00 +0900
-categories: [ネイチャークラフト]
+categories: [ネイチャークラフト,ポスアカ]
 tags: [葛籠,植物]
 image: /assets/img/posts/2020/09/27/top.jpg
 ---
