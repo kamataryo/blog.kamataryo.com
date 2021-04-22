@@ -1,9 +1,9 @@
 ---
-title: 小浜湾蒼島カヤックツーリング
+title: 小浜湾カヤックツーリング
 author: kamataryo
 date: 2020-04-11 10:00:00 +0900
 categories: [カヤック]
-tags: [旅行, 小浜湾,蒼島, 海]
+tags: [旅行, 小浜湾, 海]
 GeoloniaEmbed: true
 GeoloniaPlugins:
   - fixed-map-plugin
