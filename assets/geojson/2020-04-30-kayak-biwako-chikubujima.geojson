@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "title": "出艇地点" },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [136.173702, 35.499712]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "葛籠尾崎" },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [136.147835, 35.442094]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "カワウ営巣" },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [136.143608, 35.424501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "サギ営巣" },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [136.140561, 35.419780]
+      }
+    }
+  ]
+}
