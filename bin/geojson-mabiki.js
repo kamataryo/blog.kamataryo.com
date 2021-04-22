@@ -1,6 +1,8 @@
 const fs = require('fs')
+const path = require('path')
 
-const geojson = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'));
+const geojsonPath = path.resolve(process.cwd(), process.argv[2])
+const geojson = JSON.parse(fs.readFileSync(geojsonPath, 'utf8'));
 
 const mabikiFilter = (_0, index, self) => index ===0 || index === self.length - 1 || index % 20 === 0
 geojson.features[0].geometry.coordinates = geojson.features[0].geometry.coordinates.filter(mabikiFilter)
@@ -30,7 +32,7 @@ geojson.features = [startFeature, endFeature, ...geojson.features]
 
 geojson.features.forEach((feature, index) => {
     if(!feature.properties) {
-        geojson.features[index] = {}
+        geojson.features[index].properties = {}
     }
 })
 
