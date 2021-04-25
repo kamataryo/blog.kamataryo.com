@@ -54,11 +54,11 @@ GeoloniaAttributes:
 
 {% include image-gallery.html folder="/assets/img/posts/2021/04/24/05" %}
 
-伊崎不動の飛び込む棹を見学した。ワームが引っかかっていた。
+伊崎不動の飛び込む棹を見る。ワームが引っかかっていた。
 
 {% include image-gallery.html folder="/assets/img/posts/2021/04/24/06" %}
 
-近江八幡から出艇地点の松原まで25kmの沿岸を淡々と漕いだ。SUP やヨット、カイトSUP、ウィンドサーフィンでで遊んでいる人がポツポツ。
+近江八幡から出艇地点の松原まで25kmの沿岸を淡々と漕いだ。SUP やヨット、カイトSUP、ウィンドサーフィンでで遊んでいる人がポツポツ。ユリカモメは頭が黒い夏羽になっていた。
 
 ---
 
