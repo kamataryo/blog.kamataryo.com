@@ -10,7 +10,7 @@
 title: Antarctic Char              # the main title
 
 tagline: >-                       # it will display as the sub-title
-  nature, wildlives, bushcraft and tech.
+  自然、野生生物、ブッシュクラフト、テック。
 
 lang: ja_JP
 
@@ -55,7 +55,7 @@ baseurl: ''
 timezone: Asia/Tokyo
 
 google_analytics:
-  id: 'G-7PVWLL6YYR'          # Fill with your Google Analytics ID
+  id: 'G-VH8ND2E5KN'          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
@@ -81,7 +81,7 @@ geolonia:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark
+theme_mode: light
 
 # boolean type, global switch for ToC in posts.
 toc: true
