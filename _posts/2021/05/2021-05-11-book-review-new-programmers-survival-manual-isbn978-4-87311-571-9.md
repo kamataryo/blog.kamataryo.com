@@ -3,7 +3,7 @@ title: "書評: プログラマのためのサバイバルマニュアル"
 author: kamataryo
 date: 2021-05-11 10:00:00 +0900
 categories: [書評]
-tags: [技術書,オープンソース]
+tags: [技術書,ビジネス書]
 image: /assets/img/posts/2021/05/11/top.jpg
 ---
 
