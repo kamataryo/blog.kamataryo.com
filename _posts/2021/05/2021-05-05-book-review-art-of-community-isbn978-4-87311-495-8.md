@@ -12,3 +12,5 @@ Jono Bacon 著、 渋川 よしき 翻訳、[アート・オブ・コミュニ�
 危機に対して弾力的で自発的に発展するコミュニティを作るために必要なものは一体感と透明性。組織運用や対外的な作法、フィードバックの受け取り方、便利なツールなどについて言及されている。本書に書かれているハウツーの大部分はテキストコミュニケーションが前提になっていて、IRC が Slack が置き換わった現在でもそれは有効なはず。COVID-19の影響で多くの既存コミュニティがオンラインに移行することを考えると、その価値はむしろより大きいだろう。なお、本書で言及されているツール類については現在では選択肢が多くなっている。
 
 2011年に翻訳された古い本だが、コミュニティマネージャー必携の一冊だと思う。
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=kamataryo09-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4873114950&linkId=63e2611177358ac4cb59b32c7490faae"></iframe>

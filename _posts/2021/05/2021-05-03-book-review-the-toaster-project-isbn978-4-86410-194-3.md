@@ -20,3 +20,5 @@ image: /assets/img/posts/2021/05/03/top.jpg
 ![危ない絶縁なしの配線](/assets/img/posts/2021/05/03/01.jpg)
 
 そんな「学生ノリ」の蛮勇が本書の持ち味なのだと自分に言い聞かせて楽しみたい一冊。
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=kamataryo09-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4864101949&linkId=080b174670f993a8b94ada06fa652dd0"></iframe>

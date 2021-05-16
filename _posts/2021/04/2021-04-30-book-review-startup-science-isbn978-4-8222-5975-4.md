@@ -41,3 +41,5 @@ image: /assets/img/posts/2021/04/30/top.jpg
 ---
 
 本書は有名なプレゼンテーションのスライドを元に構成された本とのことで、訴求力の強い写真・イメージが散りばめられており強いメッセージを感じる。しかしながら、繰り返しが多く冗長さを感じた。「科学」を標榜する以上索引なども欲しい。
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=kamataryo09-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4822259757&linkId=81663973a7d8261df053edfb3645cd47"></iframe>
