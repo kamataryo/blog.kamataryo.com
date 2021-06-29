@@ -3,7 +3,7 @@ title: 歩いてつなげる山の道 - 霊仙縦走
 author: kamataryo
 date: 2021-06-12 10:00:00 +0900
 categories: [トレッキング, 歩いてつなげる山の道]
-tags: [旅行, 滋賀県, 高島市, 鈴鹿山脈]
+tags: [旅行, 滋賀県, 岐阜県, 米原市, 多賀町, 関ヶ原町, 鈴鹿山脈]
 image: /assets/img/posts/2021/06/12/top.jpg
 GeoloniaEmbed: true
 GeoloniaPlugins:
