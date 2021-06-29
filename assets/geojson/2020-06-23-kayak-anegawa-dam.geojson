@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": { "title": "親水公園" },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [136.357455, 35.487555]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "title": "紅葉島" },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [136.350739, 35.489040]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "title": "遡行限界" },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [136.353872, 35.491730]
+            }
+        }
+    ]
+}

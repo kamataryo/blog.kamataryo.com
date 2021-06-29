@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": { "title": "出艇地点" },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [136.077787, 35.323693]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "title": "沖の白石" },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [136.124157, 35.293293]
+            }
+        }
+    ]
+}
