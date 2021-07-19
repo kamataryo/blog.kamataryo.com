@@ -1,17 +1,17 @@
 # hidden files
 .*
+!.git*
+!.editorconfig
+!.nojekyll
+!.travis.yml
 
-# python compiled files
-*.pyc
-
-# jekyll debug
+# bundler cache
 _site
-
-# Jeykll Gemfile.lock
+vendor
 Gemfile.lock
 
-# yui-compressor
-*.jar
+# rubygem
+*.gem
 
 # bundle cache
 vendor
@@ -80,3 +80,6 @@ typings/
 
 # next.js build output
 .next
+
+# npm dependencies
+package-lock.json
