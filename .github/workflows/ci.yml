@@ -40,7 +40,7 @@ jobs:
         env:
           JEKYLL_ENV: production
         run: |
-          bundle exec jekyll b
+          npm run build
 
       # - name: Test Site
       #   run: |
