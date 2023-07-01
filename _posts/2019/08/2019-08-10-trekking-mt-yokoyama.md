@@ -12,7 +12,7 @@ GeoloniaAttributes:
   - key: cluster
     value: off
   - key: style
-    value: /assets/style.json/style.json
+    value: /assets/style.json
 ---
 
 {% include geolonia-map.html %}

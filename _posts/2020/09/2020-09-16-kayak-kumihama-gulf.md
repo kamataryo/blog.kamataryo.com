@@ -12,7 +12,7 @@ GeoloniaAttributes:
   - key: cluster
     value: off
   - key: style
-    value: https://raw.githubusercontent.com/assets/style.json/style.json
+    value: https://raw.githubusercontent.com/assets/style.json
 ---
 
 京丹後の久美浜湾でキャンプとカヤックしてきた。湾岸のかぶと山公園キャンプ場でオートキャンプし、2日かけて湾内をツーリングした。

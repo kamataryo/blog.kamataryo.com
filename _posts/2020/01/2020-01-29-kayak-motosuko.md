@@ -12,7 +12,7 @@ GeoloniaAttributes:
   - key: cluster
     value: off
   - key: style
-    value: https://raw.githubusercontent.com/assets/style.json/style.json
+    value: https://raw.githubusercontent.com/assets/style.json
 ---
 
 本栖湖でカヤックしてきた。
