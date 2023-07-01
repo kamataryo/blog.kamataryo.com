@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, セントレア, 海]
 image: /assets/img/posts/2020/09/21/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-09-21-kayak-centrea.geojson

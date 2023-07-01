@@ -6,8 +6,6 @@ categories: [トレッキング]
 tags: [旅行, ブンゲン, 射能山, 植物, ツキノワグマ, アオゲラ, ヒカゲノカズラ, マンネンスギ]
 image: /assets/img/posts/2021/04/12/03/IMG_0461.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2021-04-12-trekking-bungen.geojson

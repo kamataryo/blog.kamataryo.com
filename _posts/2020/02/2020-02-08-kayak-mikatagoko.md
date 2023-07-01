@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 三方五湖,湖, 海]
 image: /assets/img/posts/2020/02/08/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-02-08-kayak-mikatagoko.geojson

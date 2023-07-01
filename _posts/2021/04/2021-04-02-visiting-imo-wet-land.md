@@ -6,8 +6,6 @@ categories: [エッセー]
 tags: [滋賀県,山室湿地,生物多様性,愛知県,葦毛湿原,湿原, 植物]
 image: /assets/img/posts/2021/04/02/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2021-04-02-visiting-imo-wet-land.geojson

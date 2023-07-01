@@ -6,8 +6,6 @@ categories: [トレッキング]
 tags: [旅行,北海道, 羅臼岳 , 山]
 image: /assets/img/posts/2019/09/06/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2019-09-06-trekking-rausu.geojson

@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 小浜湾,蒼島, 海]
 image: /assets/img/posts/2020/03/25/IMG_0738.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-03-25-kayak-obama-gulf-aoshima.geojson

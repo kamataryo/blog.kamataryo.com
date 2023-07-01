@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 愛知県,伊勢湾,長良川,木曽川,川, 閘門,船頭平閘門,公共構造物, 海]
 image: /assets/img/posts/2020/02/19/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-02-19-kayak-nagara-and-kiso-river.geojson

@@ -6,8 +6,6 @@ categories: [トレッキング]
 tags: [旅行, 滋賀県, 米原市]
 image: /assets/img/posts/2021/05/29/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2021-05-29-trekking-dodani.geojson

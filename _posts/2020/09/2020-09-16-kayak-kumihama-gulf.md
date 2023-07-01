@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 久美浜湾, 京丹後, 湖, キャンプ]
 image: /assets/img/posts/2020/09/16/02/IMG_5264.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-09-16-kayak-kumihama-gulf.geojson

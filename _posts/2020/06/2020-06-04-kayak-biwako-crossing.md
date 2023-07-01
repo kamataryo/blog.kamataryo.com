@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 琵琶湖,湖北,姉川,安曇川, 湖]
 image: /assets/img/posts/2020/06/04/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-06-04-kayak-biwako-crossing.geojson

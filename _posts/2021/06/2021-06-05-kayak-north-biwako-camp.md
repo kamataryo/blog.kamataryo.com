@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 琵琶湖, 滋賀県, 長浜市, 湖, 葛籠尾崎, キャンプ]
 image: /assets/img/posts/2021/06/05/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2021-06-05-kayak-north-biwako-camp.geojson

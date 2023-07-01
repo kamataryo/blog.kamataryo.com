@@ -6,8 +6,6 @@ categories: [トレッキング]
 tags: [旅行,山, 福井県,敦賀市,敦賀半島]
 image: /assets/img/posts/2019/11/09/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2019-11-09-mt-sazae-trekking.geojson

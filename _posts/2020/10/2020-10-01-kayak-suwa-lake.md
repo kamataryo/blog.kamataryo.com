@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 長野, 諏訪湖, 水草, 湖]
 image: /assets/img/posts/2020/10/01/03/IMG_6028.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-10-01-kayak-lake-suwa.geojson

@@ -6,8 +6,6 @@ categories: [トレッキング, 歩いてつなげる山の道]
 tags: [旅行, 滋賀県, 岐阜県 ,三重県 , 多賀町, 関ヶ原町,いなべ市, 鈴鹿山脈]
 image: /assets/img/posts/2021/06/26/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2021-06-26-suzuka-traversal-01.geojson

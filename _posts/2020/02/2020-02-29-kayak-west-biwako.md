@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 琵琶湖,湖,白髭神社,安曇川]
 image: /assets/img/posts/2020/02/29/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-02-29-kayak-west-biwako.geojson

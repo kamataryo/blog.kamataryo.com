@@ -6,8 +6,6 @@ categories: [トレッキング]
 tags: [旅行, 滋賀県, 米原市,長浜市,山]
 image: /assets/img/posts/2019/11/22/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2019-11-22-mt-nanao-trekking.geojson

@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 瀬戸内海, 公共構造物, 海, 島渡り]
 image: /assets/img/posts/2020/10/09/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-10-09-kayak-kakui-island.geojson

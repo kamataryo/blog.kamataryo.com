@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 瀬戸内海, 海]
 image: /assets/img/posts/2021/03/25/01/IMG_9836.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: "#point"

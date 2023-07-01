@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 琵琶湖,沖の白石, 滋賀県, 湖]
 image: /assets/img/posts/2020/03/07/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-03-07-kayak-biwako-okinoshiraishi.geojson

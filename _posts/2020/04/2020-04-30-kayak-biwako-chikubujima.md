@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 琵琶湖, 滋賀県, 竹生島,葛籠尾崎, 湖]
 image: /assets/img/posts/2020/04/30/04/IMG_1645.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-04-30-kayak-biwako-chikubujima.geojson

@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 紀伊半島, 海]
 image: /assets/img/posts/2021/01/31/03/IMG_8882.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2021-01-31-kayak-sugari.geojson

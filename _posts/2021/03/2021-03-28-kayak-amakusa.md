@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 天草, 海, 島渡り, キャンプ]
 image: /assets/img/posts/2021/03/28/02/IMG_9792.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2021-03-28-kayak-amakusa.geojson

@@ -6,8 +6,6 @@ categories: [トレッキング]
 tags: [旅行, 滋賀県,高島市,赤坂山,植物,高島トレイル,琵琶湖]
 image: /assets/img/posts/2021/05/04/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2021-05-04-trekking-mt-akasaka-shiga.geojson

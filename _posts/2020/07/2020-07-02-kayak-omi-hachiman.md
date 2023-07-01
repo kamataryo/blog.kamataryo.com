@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 滋賀県,近江八幡市,西湖,水郷巡り,琵琶湖]
 image: /assets/img/posts/2020/07/02/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-07-02-kayak-omi-hachiman.geojson

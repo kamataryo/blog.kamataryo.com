@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 琵琶湖, 沖の白石, 沖島, 多景島, 白髭神社, 伊崎不動, 湖]
 image: /assets/img/posts/2021/04/24/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2021-04-24-kayak-biwako-roundtrip-50km.geojson

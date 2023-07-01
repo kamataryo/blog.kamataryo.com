@@ -6,8 +6,6 @@ categories: [トレッキング]
 tags: [旅行, 山, 滋賀県, 湖北, 横山岳]
 image: /assets/img/posts/2019/08/10/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2019-08-10-trekking-mt-yokoyama.geojson

@@ -6,8 +6,6 @@ categories: [トレッキング]
 tags: [旅行, 滋賀県, 西野山, 長浜市琵琶湖]
 image: /assets/img/posts/2021/07/03/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2021-07-03-nishinoyama-asotsu.geojson

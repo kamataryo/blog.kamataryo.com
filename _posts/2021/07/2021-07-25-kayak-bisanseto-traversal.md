@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 四国, 香川県, 岡山県, 高松市, 玉野市]
 image: /assets/img/posts/2021/07/25/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2021-07-25-kayak-bisanseto-traversal.geojson

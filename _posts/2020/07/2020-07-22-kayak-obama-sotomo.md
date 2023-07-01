@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 小浜市,福井県, 海,蘇洞門,内外海半島]
 image: /assets/img/posts/2020/07/22/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-07-22-kayak-obama-sotomo.geojson

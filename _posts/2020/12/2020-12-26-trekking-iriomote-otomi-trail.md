@@ -6,8 +6,6 @@ categories: [トレッキング]
 tags: [旅行, 西表島, カタツムリ, 植物]
 image: /assets/img/posts/2020/12/26/snail1/IMG_8188.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-12-26-trekking-iriomote-otomi-trail.geojson

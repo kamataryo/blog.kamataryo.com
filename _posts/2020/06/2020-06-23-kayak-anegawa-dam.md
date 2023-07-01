@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 姉川, 滋賀県,ダム湖,米原市 ,海]
 image: /assets/img/posts/2020/06/23/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-06-23-kayak-anegawa-dam.geojson

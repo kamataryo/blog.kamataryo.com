@@ -6,8 +6,6 @@ categories: [トレッキング]
 tags: [旅行, 西表島, トポ図]
 image: /assets/img/posts/2020/12/25/02/IMG_8175.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-12-25-trekking-iriomote-south-coast.geojson

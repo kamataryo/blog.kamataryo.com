@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 瀬戸内海, 海, 男木島, 島渡り]
 image: /assets/img/posts/2020/11/14/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-11-14-kayak-ogi-island.geojson

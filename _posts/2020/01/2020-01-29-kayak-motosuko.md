@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 本栖湖,山梨県, 湖]
 image: /assets/img/posts/2020/01/29/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-01-29-kayak-motosuko.geojson

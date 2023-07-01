@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 沖縄県,西表島,八重山, クイラ川, 海]
 image: /assets/img/posts/2020/01/04/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-01-04-kayak-iriomote-west.geojson

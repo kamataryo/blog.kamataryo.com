@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 敦賀半島,敦賀市,福井県, 海]
 image: /assets/img/posts/2020/03/18/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-03-18-kayak-tsuruga-peninsula.geojson

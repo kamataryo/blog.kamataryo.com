@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 能登半島,能登島,石川県 ,海]
 image: /assets/img/posts/2020/06/25/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-06-25-kayak-notojima.geojson

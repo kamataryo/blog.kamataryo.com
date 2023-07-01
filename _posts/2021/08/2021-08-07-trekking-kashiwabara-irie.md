@@ -6,8 +6,6 @@ categories: [トレッキング]
 tags: [旅行, 滋賀県, 米原市, 中山道, 歩いてつなげる山の道]
 image: /assets/img/posts/2021/08/07/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2021-08-07-trekking-kashiwabara-irie.geojson

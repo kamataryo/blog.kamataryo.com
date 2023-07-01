@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 琵琶湖, 湖, 島渡り]
 image: /assets/img/posts/2020/05/14/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2020-05-14-kayak-biwako-takeshima.geojson

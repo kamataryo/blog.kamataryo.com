@@ -6,8 +6,6 @@ categories: [自転車]
 tags: [旅行, 滋賀県,岐阜県,米原市,揖斐川町,関ヶ原町,国見峠]
 image: /assets/img/posts/2021/05/08/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2021-05-08-bicycle-touring-kunimi-pass.geojson

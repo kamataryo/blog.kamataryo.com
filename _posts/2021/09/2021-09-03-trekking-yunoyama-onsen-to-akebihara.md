@@ -6,8 +6,6 @@ categories: [トレッキング]
 tags: [旅行, 滋賀県, 三重県, 菰野町,　甲賀市, 鈴鹿山脈, 歩いてつなげる山の道]
 image: /assets/img/posts/2021/09/03/top.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: /assets/geojson/2021-09-03-trekking-yunoyama-onsen-to-akebihara.geojson

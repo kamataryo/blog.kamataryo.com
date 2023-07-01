@@ -6,8 +6,6 @@ categories: [カヤック]
 tags: [旅行, 琵琶湖, 湖]
 image: /assets/img/posts/2021/03/30/01/IMG_9930.jpg
 GeoloniaEmbed: true
-GeoloniaPlugins:
-  - fixed-map-plugin
 GeoloniaAttributes:
   - key: geojson
     value: "#point"
