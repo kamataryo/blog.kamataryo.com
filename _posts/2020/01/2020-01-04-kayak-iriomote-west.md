@@ -14,7 +14,7 @@ GeoloniaAttributes:
   - key: cluster
     value: off
   - key: style
-    value: https://raw.githubusercontent.com/geolonia/outdoors/master/style.json
+    value: https://raw.githubusercontent.com/assets/style.json/style.json
 ---
 
 無人地帯の西表島西部に行くことは昔からのトピックで、シーカヤックなら簡単にアプローチできるのに気づいた。

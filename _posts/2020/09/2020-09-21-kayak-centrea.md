@@ -14,7 +14,7 @@ GeoloniaAttributes:
   - key: cluster
     value: off
   - key: style
-    value: https://raw.githubusercontent.com/geolonia/outdoors/master/style.json
+    value: https://raw.githubusercontent.com/assets/style.json/style.json
 ---
 
 中部国際空港 セントレアをカヤックで一周してきた。

@@ -14,7 +14,7 @@ GeoloniaAttributes:
   - key: cluster
     value: off
   - key: style
-    value: https://raw.githubusercontent.com/geolonia/outdoors/master/style.json
+    value: https://raw.githubusercontent.com/assets/style.json/style.json
 ---
 
 先週のリベンジの敦賀半島カヤックツーリング。キャンプできそうな無人海岸もいくつかある。水島まで言って引き返してきた。

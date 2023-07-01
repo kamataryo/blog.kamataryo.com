@@ -20,7 +20,7 @@ const geojson = tj.gpx(gpx)
 //   }
 // ]
 
-const mabikiFilter = (_0, index, self) => index ===0 || index === self.length - 1 || index % 20 === 0
+const mabikiFilter = (_0, index, self) => index === 0 || index === self.length - 1 || index % 5 === 0
 const noAltMapper = ([lng, lat, alt]) => [lng, lat]
 geojson.features[0].properties.coordTimes = geojson.features[0].properties.coordTimes.filter(mabikiFilter)
 geojson.features[0].geometry.coordinates = geojson.features[0].geometry.coordinates.filter(mabikiFilter)

@@ -14,7 +14,7 @@ GeoloniaAttributes:
   - key: cluster
     value: off
   - key: style
-    value: https://raw.githubusercontent.com/geolonia/outdoors/master/style.json
+    value: https://raw.githubusercontent.com/assets/style.json/style.json
 ---
 
 琵琶湖のほぼ中央には沖の白石という4つの岩がある。東西のどちらの湖岸からもかろうじて見えるくらいの小さい岩。安曇川の河口から沖の白石を目指してカヤックを漕いでみた。

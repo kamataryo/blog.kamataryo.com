@@ -14,7 +14,7 @@ GeoloniaAttributes:
   - key: cluster
     value: off
   - key: style
-    value: https://raw.githubusercontent.com/geolonia/outdoors/master/style.json
+    value: https://raw.githubusercontent.com/assets/style.json/style.json
 ---
 
 琵琶湖の島の一つ、多景島でカヤックした。彦根から出艇し、上陸はせずにぐるっと回って帰ってきた。
