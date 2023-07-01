@@ -12,7 +12,7 @@ GeoloniaAttributes:
   - key: cluster
     value: off
   - key: style
-    value: https://raw.githubusercontent.com/assets/style.json
+    value: /assets/style.json
 ---
 
 敦賀半島の蠑螺ヶ岳と西方ヶ岳をトレッキング。

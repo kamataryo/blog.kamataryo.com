@@ -12,7 +12,7 @@ GeoloniaAttributes:
   - key: cluster
     value: off
   - key: style
-    value: https://raw.githubusercontent.com/assets/style.json
+    value: /assets/style.json
 ---
 
 敦賀湾で強風カヤック。

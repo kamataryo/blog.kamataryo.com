@@ -11,7 +11,7 @@ GeoloniaAttributes:
   - key: cluster
     value: off
   - key: style
-    value: https://raw.githubusercontent.com/assets/style.json
+    value: /assets/style.json
 ---
 
 {% include geolonia-map.html %}

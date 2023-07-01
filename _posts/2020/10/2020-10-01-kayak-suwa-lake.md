@@ -12,7 +12,7 @@ GeoloniaAttributes:
   - key: cluster
     value: off
   - key: style
-    value: https://raw.githubusercontent.com/assets/style.json
+    value: /assets/style.json
 ---
 
 長野県にある諏訪湖でカヤックをしてきた。浅い湖で、水草が大量に繁茂していている。水は結構汚い。
