@@ -9,7 +9,7 @@ title: Antarctic Char              # the main title
 tagline: >-                       # it will display as the sub-title
   自然、野生生物、ブッシュクラフト、テック。
 
-lang: ja_JP
+lang: ja
 # Import the theme
 theme: jekyll-theme-chirpy
 
