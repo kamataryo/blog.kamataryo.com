@@ -19,9 +19,16 @@ home = [ "HTML", "RSS", "JSON" ]
   pages = '/:slug/'
 
 [author]
-  # name = 'kamataryo'
+  name = 'kamataryo'
   image = 'img/author.png'
-  headline = 'ポスト・アポカリプスに備えるブログ。自然、野生生物、ブッシュクラフト、テック。'
+  bio = 'ウェブ開発者・ナチュラリスト'
+  headline = '自然、野生生物、DIY、テック。'
+  links = [
+    { instagram = 'https://instagram.com/kamata.ryo'},
+    { 'x-twitter' = 'https://twitter.com/kamataryo_'},
+    { github = 'https://github.com/kamataryo'},
+  ]
+
 
 
 [taxonomies]
