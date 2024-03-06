@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "title": "長命寺川河口 出艇地点" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.067283, 35.156754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "ローソン近江八幡島店" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.087271, 35.167992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "葦の迷路の入り口" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.089084, 35.166134]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "title": "西の湖出合い" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.105242, 35.159346]
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "七尾山"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.357412,
+                    35.423784
+                ]
+            }
+        }
+    ]
+}
