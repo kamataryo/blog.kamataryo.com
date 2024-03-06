@@ -1,0 +1,17 @@
+# config/_default/menus.toml
+
+[[main]]
+  identifier = "instagram"
+  pre = "instagram"
+  url = "https://www.instagram.com/kamata.ryo/"
+  weight = 30
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/kamataryo"
+  weight = 40
+
+[[footer]]
+  name = "このブログについて"
+  url = "/about/"

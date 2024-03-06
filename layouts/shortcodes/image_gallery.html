@@ -1,0 +1,49 @@
+{{- $image_dir_path := .Get "image_dir_path" -}}
+{{- if not $image_dir_path -}}
+  {{ errorf "missing value for param 'image_dir_path': ％s" .Position }}
+{{- end -}}
+
+{{- $true_image_dir_path := print "static/" $image_dir_path -}}
+
+<style>
+  .image-gallery {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem;
+  }
+  .image-gallery li {
+    margin: 0.1rem;
+  }
+  @media all and (min-width: 831px) {
+    .image-gallery img {
+      width: 180px;
+      height: 180px;
+      object-fit: cover;
+    }
+  }
+  @media all and (max-width: 830px) {
+    .image-gallery {
+      display: block;
+    }
+    .image-gallery img {
+      max-width: 100%;
+    }
+  }
+</style>
+
+<ul class="image-gallery">
+
+  {{ range readDir $true_image_dir_path }}
+  {{ if (findRE ".(png|jpe?g|JPE?G)$" .Name) }}
+  {{- $true_image_path := print $image_dir_path "/" .Name -}}
+  <li>
+    <a href="{{ $true_image_path }}">
+      <img class="image-gallery_image" src="{{ $true_image_path }}" />
+    </a>
+  </li>
+  {{ end }}
+{{ end }}
+
+
+</ul>

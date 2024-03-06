@@ -1,0 +1,41 @@
+colorScheme = "avocado"
+defaultAppearance = 'dark'
+autoSwitchAppearance = false
+enableSearch = true
+enableCodeCopy = true
+
+[header]
+layout = 'fixed'
+
+[footer]
+showThemeAttribution = false
+showScrollToTop = true
+
+[homepage]
+layout = "background"
+homepageImage = "img/background.jpg"
+showRecent = true
+showRecentItems = 6
+showMoreLink = true
+cardView = true
+# cardViewScreenWidth = true
+layoutBackgroundBlur = true
+
+[article]
+showDate = true
+showAuthor = false
+# showViews = true # TODO firebase integration
+showHero = true
+showTaxonomies = true
+
+showWordCount = false
+showReadingTime = false
+
+[list]
+showSummary = true
+showCards = true
+groupByYear = false
+cardView = true
+
+[taxonomy]
+showTermCount = true
