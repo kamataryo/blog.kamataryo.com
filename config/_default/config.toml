@@ -28,4 +28,5 @@ home = [ "HTML", "RSS", "JSON" ]
   category = 'categories'
   tag = 'tags'
 
+# TODO: does it work?
 googleAnalytics = 'G-VH8ND2E5KN'

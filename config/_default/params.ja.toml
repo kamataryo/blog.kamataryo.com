@@ -24,7 +24,8 @@ layoutBackgroundBlur = true
 [article]
 showDate = true
 showAuthor = false
-# showViews = true # TODO firebase integration
+showViews = true
+showLikes = true
 showHero = true
 showTaxonomies = true
 
@@ -39,3 +40,12 @@ cardView = true
 
 [taxonomy]
 showTermCount = true
+
+[firebase]
+  apiKey = 'AIzaSyBYdXOHztjYIz7Bka4_XIrRFypIC9hjwkA'
+  authDomain = 'blog-kamataryo-com.firebaseapp.com'
+  projectId = 'blog-kamataryo-com'
+  storageBucket = 'blog-kamataryo-com.appspot.com'
+  messagingSenderId = '749454209474'
+  appId = '1:749454209474:web:f6081c7ba865379a84a65b'
+  measurementId = 'G-B3BKTNQZS3'
