@@ -5,23 +5,13 @@ author: kamataryo
 date: 2020-01-04 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 沖縄県,西表島,八重山, クイラ川, 海]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2020-01-04-kayak-iriomote-west.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
+geojson_path: /geojson/2020-01-04-kayak-iriomote-west.geojson
 ---
-
 無人地帯の西表島西部に行くことは昔からのトピックで、シーカヤックなら簡単にアプローチできるのに気づいた。
 この頃はドライスーツがまだなかったので、低体温症の危険が少ない沖縄でカヤックをした。
 
-{% include geolonia-map.html %}
 
 ---
-
 出艇地点の祖納で前日のうちにカヤックを組み立て。祖納の半島をぐるっと回って船浮湾に向い、クイラ川を可能な限り遡行する予定。
 
 {{< image_gallery image_dir_path="/img/posts/2020/01/04/01" >}}

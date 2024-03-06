@@ -5,18 +5,7 @@ author: kamataryo
 date: 2019-09-06 10:00:00 +0900
 categories: [トレッキング]
 tags: [旅行,北海道, 羅臼岳 , 山]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2019-09-06-trekking-rausu.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
----
-
-{% include geolonia-map.html %}
-
+geojson_path: /geojson/2019-09-06-trekking-rausu.geojson
 ---
 
 羅臼岳でトレッキングしてきた。  

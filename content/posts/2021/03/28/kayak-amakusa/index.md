@@ -5,18 +5,12 @@ author: kamataryo
 date: 2021-03-28 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 天草, 海, 島渡り, キャンプ]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2021-03-28-kayak-amakusa.geojson
+geojson_path: /geojson/2021-03-28-kayak-amakusa.geojson
 ---
-
 天草諸島と九州に挟まれた八代海でカヤックツーリングをしてきた。
 
-{% include geolonia-map.html %}
 
 ---
-
 ## えびすビーチ
 
 午後15:30に出発して黒島という無人島に向う。内湾なのにクシクラゲ類が多いのが印象的だった。カンムリウミスズメが3羽、近くを泳いでいて、おそらくちゃんと見たのは初めて。後で調べてみると、天草周辺には比較的多く分布しているのだそうだ。

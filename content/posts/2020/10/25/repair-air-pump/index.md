@@ -6,11 +6,9 @@ date: 2020-10-25 09:00:00 +0900
 categories: [DIY]
 tags: [自転車]
 ---
-
 [Topeak](https://topeak.jp/index.html) のジョーブロースポーツを 15 年ほど使っていて、最近思うように空気を圧縮してくれなくなった。手応えがなく、高速でポンプしないと圧が上がらない。O リングのグリス切れのようなので、グリスを塗布して修理してみる。
 
 ---
-
 分解は簡単で、以下の工具があれば OK。
 
 - 4mm ヘックスレンチ
@@ -27,7 +25,6 @@ tags: [自転車]
 {{< image_gallery image_dir_path="/img/posts/2020/10/25/02" >}}
 
 ---
-
 Topeak のジョーブロースポーツは最安価のベストセラーモデルで、今は 3 世代目になっているようだ。
 
 [https://topeak.jp/pump/ppf07400.html](https://topeak.jp/pump/ppf07400.html)

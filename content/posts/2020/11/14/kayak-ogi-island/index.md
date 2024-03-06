@@ -5,18 +5,12 @@ author: kamataryo
 date: 2020-11-14 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 瀬戸内海, 海, 男木島, 島渡り]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2020-11-14-kayak-ogi-island.geojson
+geojson_path: /geojson/2020-11-14-kayak-ogi-island.geojson
 ---
-
 香川県高松市の有人島、男木島（おぎじま）をカヤックで半周した。
 
-{% include geolonia-map.html %}
 
 ---
-
 ## アプローチ
 
 天気も良く、風や波も大丈夫そうだったので、前からチャレンジしようと思っていた男木島渡りをした。  

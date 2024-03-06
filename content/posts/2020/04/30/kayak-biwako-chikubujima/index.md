@@ -5,18 +5,7 @@ author: kamataryo
 date: 2020-04-30 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 琵琶湖, 滋賀県, 竹生島,葛籠尾崎, 湖]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2020-04-30-kayak-biwako-chikubujima.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
----
-
-{% include geolonia-map.html %}
-
+geojson_path: /geojson/2020-04-30-kayak-biwako-chikubujima.geojson
 ---
 
 竹生島を一周してきた。べた凪で天気も良く、空と海が繋がっていた。

@@ -5,22 +5,12 @@ author: kamataryo
 date: 2020-01-22 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 琵琶湖,南湖, 湖]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2020-01-22-kayak-biwako-nanko.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
+geojson_path: /geojson/2020-01-22-kayak-biwako-nanko.geojson
 ---
-
 冬の琵琶湖南湖でカヤック。琵琶湖大橋を目指した。
 
-{% include geolonia-map.html %}
 
 ---
-
 唐崎から出艇し、北上。この日は海況が穏やかで、バスボートがたくさん。
 
 {{< image_gallery image_dir_path="/img/posts/2020/01/22/01" >}}

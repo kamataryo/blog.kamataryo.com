@@ -5,17 +5,8 @@ author: kamataryo
 date: 2021-07-11 17:00:00 +0900
 categories: [トレッキング]
 tags: [旅行, 滋賀県, 米原市, 金糞岳]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2021-07-11-trekking-torikoshi-kanakuso.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
+geojson_path: /geojson/2021-07-11-trekking-torikoshi-kanakuso.geojson
 ---
-
-{% include geolonia-map.html %}
 
 最近雨が多く、山は諦めて午前中に強度の高いランニングなどをしていたが、午後の天気が回復してくれたのでお手軽に山に行くことにした。滋賀県と岐阜県を結ぶ鳥越林道という林道があって、峠の鳥越峠が県境になっている。ここは滋賀県で 2 番目に標高の高い金糞岳のピークに近い。林道は舗装されていて、（他の滋賀県と岐阜県を結ぶ林道もそうだけど）特に岐阜県側はよくメンテナンスされている。
 

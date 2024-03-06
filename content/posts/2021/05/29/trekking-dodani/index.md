@@ -5,17 +5,8 @@ author: kamataryo
 date: 2021-05-29 10:00:00 +0900
 categories: [トレッキング]
 tags: [旅行, 滋賀県, 米原市]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2021-05-29-trekking-dodani.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
+geojson_path: /geojson/2021-05-29-trekking-dodani.geojson
 ---
-
-{% include geolonia-map.html %}
 
 米原市の堂谷という字にある名前の分からない山に行ってきた。
 植物層はコナラ、タカノツメ、ネジキ、ヒサカキなどが主で、ネジキの花が咲いていた。

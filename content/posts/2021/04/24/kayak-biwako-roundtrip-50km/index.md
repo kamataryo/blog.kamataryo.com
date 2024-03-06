@@ -5,20 +5,13 @@ author: kamataryo
 date: 2021-04-24 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 琵琶湖, 沖の白石, 沖島, 多景島, 白髭神社, 伊崎不動, 湖]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2021-04-24-kayak-biwako-roundtrip-50km.geojson
-  - key: cluster
-    value: off
----
+geojson_path: /geojson/2021-04-24-kayak-biwako-roundtrip-50km.geojson
 
+---
 カヤックで長距離を漕ぐことは、海峡渡りなどの危険なことをする前に一度経験しておかないといけないと思っていて、天候が安定する春に琵琶湖で 1 日 50km を漕げるか試してみた。
 
-{% include geolonia-map.html %}
 
 ---
-
 今回のツーリングでは、50km 漕ぐことの他にいくつか初めての要素がある。
 
 - 中琵琶湖（南湖でも北琵琶湖でも無いところ）で横断
@@ -31,7 +24,6 @@ GeoloniaAttributes:
 沖島や近くの伊崎不動、近江八幡の北側の沿岸も漕いでみたい場所だった。
 
 ---
-
 自分の場合、カヤックの速度は平均で 5.5km 行けば良い方なので、今回は 10 時間以上の行程になる予定。松原海水浴場の近くで前夜泊して、日の出前に出艇した。この日の日の出は 5:00。最初のチェックポイントの多景島までの距離は 7km で、1 時間強の予定。
 
 {{< image_gallery image_dir_path="/img/posts/2021/04/24/01" >}}
@@ -59,7 +51,6 @@ GeoloniaAttributes:
 近江八幡から出艇地点の松原まで 25km の沿岸を淡々と漕いだ。SUP やヨット、カイト SUP、ウィンドサーフィンでで遊んでいる人がポツポツ。ユリカモメは頭が黒い夏羽になっていた。
 
 ---
-
 40km を超えると手の力が限界に達して、むしろ体と足でしっかり焦げるようになるのを経験した。今後の漕ぎ方が変わりそうな気がする。胸、腹、お尻の筋肉が痛い。
 
 <dl>

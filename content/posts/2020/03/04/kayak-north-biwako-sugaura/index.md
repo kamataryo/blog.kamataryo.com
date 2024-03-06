@@ -5,18 +5,7 @@ author: kamataryo
 date: 2020-03-04 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 琵琶湖,菅浦,長浜市,高島市, 湖]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2020-03-04-kayak-north-biwako-sugaura.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
----
-
-{% include geolonia-map.html %}
-
+geojson_path: /geojson/2020-03-04-kayak-north-biwako-sugaura.geojson
 ---
 
 カヤックで北琵琶湖を横断し、菅浦まで漕いだ。  

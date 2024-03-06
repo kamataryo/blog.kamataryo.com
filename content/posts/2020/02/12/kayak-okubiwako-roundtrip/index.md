@@ -5,18 +5,7 @@ author: kamataryo
 date: 2020-02-12 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 琵琶湖, 奥琵琶湖, 湖]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2020-02-12-kayak-okubiwako-roundtrip.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
----
-
-{% include geolonia-map.html %}
-
+geojson_path: /geojson/2020-02-12-kayak-okubiwako-roundtrip.geojson
 ---
 
 奥琵琶湖をカヤックで一周した。湾奥は案外浅い。

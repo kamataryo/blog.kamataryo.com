@@ -5,22 +5,12 @@ author: kamataryo
 date: 2021-06-12 10:00:00 +0900
 categories: [トレッキング, 歩いてつなげる山の道]
 tags: [旅行, 滋賀県, 岐阜県, 米原市, 多賀町, 関ヶ原町, 鈴鹿山脈]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2021-06-12-ryozen-traversal.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
+geojson_path: /geojson/2021-06-12-ryozen-traversal.geojson
 ---
-
-{% include geolonia-map.html %}
 
 週末に山の道を歩いて繋げていき、行けるところまで行ってみたいと思っている。当面は鈴鹿の山を縦走し、中長期的には熊野古道まで行ってみたい。手始めに、鈴鹿山系の最北の山、霊仙山を縦走してきた。
 
 ---
-
 ## 柏原 - 霊仙山頂
 
 霊仙山に登ったのは 2 度目で、6-7 年ぶりくらい。前回は醒井養鱒場の奥から上榑ヶ畑ルートを通ったが、今回は柏原からアプローチした。6:30 ごろに出発して、途中で雨がややぱらついた。オオルリやヤマバト、カッコウがよく鳴いていた。咲いていた花はエゴノキやサルナシ、タツナミソウなど。
@@ -57,7 +47,6 @@ GeoloniaAttributes:
 {{< image_gallery image_dir_path="/img/posts/2021/06/12/08" >}}
 
 ---
-
 今回の山行は 1 泊の予定だったけれど、案外全行程を歩き通して日帰りで撤収した。テントを張ろうと思ったところがヤマビルだらけだったので泊まる意欲が削がれたのもあった。縦走装備でどれだけ歩けるかを試すとができてよいトレーニングになった。
 次回は五僧峠から三国岳を経由し、鈴鹿の山を歩けるところまで歩きたい。
 

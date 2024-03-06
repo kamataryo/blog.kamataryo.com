@@ -5,18 +5,7 @@ author: kamataryo
 date: 2020-02-08 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 三方五湖,湖, 海]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2020-02-08-kayak-mikatagoko.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
----
-
-{% include geolonia-map.html %}
-
+geojson_path: /geojson/2020-02-08-kayak-mikatagoko.geojson
 ---
 
 三方五湖でツーリングしてきた。この日はうっすら雪が降っていたが、日本海側は晴れまたは雨だった。

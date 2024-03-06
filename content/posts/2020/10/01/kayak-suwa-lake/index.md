@@ -5,22 +5,12 @@ author: kamataryo
 date: 2020-10-01 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 長野, 諏訪湖, 水草, 湖]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2020-10-01-kayak-lake-suwa.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
+geojson_path: /geojson/2020-10-01-kayak-lake-suwa.geojson
 ---
-
 長野県にある諏訪湖でカヤックをしてきた。浅い湖で、水草が大量に繁茂していている。水は結構汚い。
 
-{% include geolonia-map.html %}
 
 ---
-
 ハーモ美術館の横にあるみずべ公園から出艇。藻刈りをする専用の船が水草を処理しているのが見える。
 湖上にはワカサギ釣りのドームがある。
 

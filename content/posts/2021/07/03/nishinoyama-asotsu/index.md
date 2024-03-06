@@ -5,17 +5,8 @@ author: kamataryo
 date: 2021-07-03 10:00:00 +0900
 categories: [トレッキング]
 tags: [旅行, 滋賀県, 西野山, 長浜市琵琶湖]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2021-07-03-nishinoyama-asotsu.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
+geojson_path: /geojson/2021-07-03-nishinoyama-asotsu.geojson
 ---
-{% include geolonia-map.html %}
-
 奥琵琶湖の東側の湖岸、西野山を散策した。西野山には、余呉川の放水路である西野水道や稜線にある古保利古墳群、琵琶湖岸にある有漏神社（うろじんじゃ）などの史跡が点在している。有漏神社の近くには、かつては阿曽津千軒と呼ばれた大きな集落があったが、現在は湖底遺跡になっている。滋賀県の文化財の石柱があった。
 
 {{< image_gallery image_dir_path="/img/posts/2021/07/03/01" >}}

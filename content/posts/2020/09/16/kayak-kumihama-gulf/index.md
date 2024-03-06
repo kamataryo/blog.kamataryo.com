@@ -5,22 +5,12 @@ author: kamataryo
 date: 2020-09-16 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 久美浜湾, 京丹後, 湖, キャンプ]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2020-09-16-kayak-kumihama-gulf.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
+geojson_path: /geojson/2020-09-16-kayak-kumihama-gulf.geojson
 ---
-
 京丹後の久美浜湾でキャンプとカヤックしてきた。湾岸のかぶと山公園キャンプ場でオートキャンプし、2日かけて湾内をツーリングした。
 
-{% include geolonia-map.html %}
 
 ---
-
 かぶと山キャンプ場はオートキャンプ場で、1泊3,000円するが電源が取れたりしてとても快適。丹波黒豆が道の駅で売っていたので豆ご飯を炊いたりする。  
 キャンプ場にはヤマボウシが植栽されていて、実がたくさんなっていた。
 
@@ -43,7 +33,6 @@ GeoloniaAttributes:
 {{< image_gallery image_dir_path="/img/posts/2020/09/16/04" >}}
 
 ---
-
 ### 1日目
 
 <dl>

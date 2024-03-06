@@ -5,17 +5,8 @@ author: kamataryo
 date: 2020-07-22 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 小浜市,福井県, 海,蘇洞門,内外海半島]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2020-07-22-kayak-obama-sotomo.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
+geojson_path: /geojson/2020-07-22-kayak-obama-sotomo.geojson
 ---
-
-{% include geolonia-map.html %}
 
 小浜市の景勝地、蘇洞門までカヤックツーリングしてきた。  
 出艇は小浜市街の西にある小浜公園から。小浜湾を縦断すると7kmくらいある。

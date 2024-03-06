@@ -6,7 +6,6 @@ date: 2021-04-30 10:00:00 +0900
 categories: [書評]
 tags: [ビジネス書,スタートアップ]
 ---
-
 田所 雅之著、[起業の科学 スタートアップサイエンス](https://www.amazon.co.jp/dp/B0777H17WD/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)を読んだ。スタートアップの必携書とされているらしい本書では、起業から成功までのステップを以下のように分解し、それぞれのステップでの無駄を省くためのノウハウを網羅的に紹介している。
 
 1. Idea Verification アイデア検証
@@ -39,7 +38,6 @@ tags: [ビジネス書,スタートアップ]
 **Transition to Scale** でやっと成功の手前に到達。顧客を単位として、1人から得られる利益をいかに健全化するかについての理論が述べられている。主にマーケティングにフォーカスしている章として読んだ。このステップでスタートアップから「普通の企業」として安定的に利益をスケールしていく組織に転身していくことになる。
 
 ---
-
 本書は有名なプレゼンテーションのスライドを元に構成された本とのことで、訴求力の強い写真・イメージが散りばめられており強いメッセージを感じる。しかしながら、繰り返しが多く冗長さを感じた。「科学」を標榜する以上索引なども欲しい。
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=kamataryo09-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4822259757&linkId=81663973a7d8261df053edfb3645cd47"></iframe>

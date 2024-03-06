@@ -5,18 +5,6 @@ author: kamataryo
 date: 2021-03-25 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 瀬戸内海, 海]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: "#point"
-  - key: zoom
-    value: 14
-  - key: lat
-    value: 34.193948
-  - key: lng
-    value: 133.112006
-  - key: marker
-    value: off
 ---
 
 <script id="point" type="json">
@@ -50,10 +38,8 @@ GeoloniaAttributes:
 
 しまなみ海道をつなぐ島の1つ、伯方島でカヤック。
 
-{% include geolonia-map.html %}
 
 ---
-
 伯方島はしまなみ海道が通る島の1つで、自動車専用道路からアクセスできる。島の西側に沖浦ビーチという静かな海水浴場があり、ここで小1時間ほどカヤックに乗った。遠浅の穏やかな浜で、快適にカヤックができる。
 
 沖の岩礁に建てられている灯標や、南西側の無人海岸を見に行ったりした。

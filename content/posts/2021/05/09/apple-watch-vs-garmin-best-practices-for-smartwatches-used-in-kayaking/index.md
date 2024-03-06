@@ -7,7 +7,6 @@ categories: [エッセー]
 tags:
   [カヤック, トレッキング, フィットネス, スマートウォッチ, AppleWatch, Garmin]
 ---
-
 Apple Watch と Garmin を使っている。これまで使っていた Apple Watch は次の 3 つ。
 
 - 初代 Apple Watch
@@ -21,7 +20,6 @@ Garmin は FENIX 6X を使っている。カヤックや山などのフィール
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=kamataryo09-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B082KW8VP8&linkId=14edb7d0abea94fef95c85e0387f642b&bc1=000000&amp;lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
 
 ---
-
 ### プラットフォーム
 
 Apple Watch は iOS が提供している[フィットネス](https://apps.apple.com/jp/app/%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9/id1208224953)（旧アクティビティ）や[ヘルスケア](https://www.apple.com/jp/ios/health/)のアプリにデータを集約するので iPhone ユーザーなら面倒が一切ない。一方 Garmin は [Garmin Connect](https://connect.garmin.com/) というクラウド上にデータがアップロードされる。ランニングに Garmin を使っているユーザーは多く、SNS として使える。  
@@ -90,7 +88,6 @@ Garmin の[ボディバッテリー](https://www.garmin.co.jp/minisite/health/gu
 当初は Apple Watch をカヤックで使っていたが、バッテリーと地図表示の容易さの点から Garmin を使うようになった。半日以上のフィールド活動の際は Garmin にしている。トレースの吸い出しも、自作の謎アプリではなく公式が提供している機能でできるのも良い。一方で日常的なランニングや水泳などに Apple Watch を使っている。付けていても負担が少なく、決済機能の利便を採っている。
 
 ---
-
 [^0]: と言っても、縦走や長距離カヤックツーリングでは 1/25,000 地形図や海図は必携だろう
 [^1]: Apple の囲いの中ではあるけれど
 [^2]: 新型コロナウィルス感染症の重症化の判定に使えそうだと思ってしまいそうだが、医療用途として過剰な期待はしない方がいいと思う

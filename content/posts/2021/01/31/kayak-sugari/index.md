@@ -5,18 +5,12 @@ author: kamataryo
 date: 2021-01-31 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 紀伊半島, 海]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2021-01-31-kayak-sugari.geojson
+geojson_path: /geojson/2021-01-31-kayak-sugari.geojson
 ---
-
 尾鷲市の飛び地、須賀利へ行ってきた。須賀利の集落へは車で行くことができるが、山の向こうに須賀利大池という池があって、ここへは山を越えるか船を使う以外に行く術はない。今回は銚子川の河口からカヤックでアプローチした。
 
-{% include geolonia-map.html %}
 
 ---
-
 ## 銚子川
 
 銚子川は南紀の清流として有名で、近年メディア露出が多く夏になるとたくさんの人がやってくる。短い川で、少し遡ると魚跳渓という滑らかな巨岩が連続するエリアがあり、泳ぐととても楽しい。魚跳渓までの間にはダムがなく、ボウズハゼやアユ、ウナギ、テナガエビ、モクズガニなどの通し回遊性の魚類や甲殻類をたくさん見ることができる。

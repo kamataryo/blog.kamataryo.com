@@ -8,6 +8,9 @@ languageCode = 'ja'
 timeZone = 'Asia/Tokyo'
 title = 'Antarctic Char'
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
 
@@ -25,10 +28,6 @@ home = [ "HTML", "RSS", "JSON" ]
   category = 'categories'
   tag = 'tags'
 
-
-  # google_analytics:
-  # id: 'G-GGCMESDNVR'          # Fill with your Google Analytics ID
-#   geolonia:
-#   mapKey: bbd61bd3510942169387681310120552
+googleAnalytics = 'G-GGCMESDNVR'
 
 # google_site_verification: google_meta_tag_verification # change to your verification string

@@ -5,13 +5,8 @@ author: kamataryo
 date: 2021-05-30 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 若狭湾, 福井県, 若狭町, 食見海岸, 海]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2021-05-30-kayak-shikimi.geojson
+geojson_path: /geojson/2021-05-30-kayak-shikimi.geojson
 ---
-
-{% include geolonia-map.html %}
 
 梅雨の合間の久々の晴れの日だったので、食見海岸でカヤックした。
 本当は常神半島に行くつもりだったけど、高速を乗り過ごして引き返す途中に通りかかかり、半島の先まで行くのが面倒になってここに決めた。
@@ -25,7 +20,6 @@ GeoloniaAttributes:
 日焼け止めを忘れてかなり体力を消耗したので、10km ほどで切り上げ、浅瀬でてロール練習をして終了。
 
 ---
-
 <dl>
 <dt>航行距離</dt><dd>10.43 km</dd>
 <dt>タイム</dt><dd>3 時間 33 分</dd>

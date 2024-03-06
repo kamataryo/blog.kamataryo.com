@@ -5,18 +5,7 @@ author: kamataryo
 date: 2020-02-29 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 琵琶湖,湖,白髭神社,安曇川]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2020-02-29-kayak-west-biwako.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
----
-
-{% include geolonia-map.html %}
-
+geojson_path: /geojson/2020-02-29-kayak-west-biwako.geojson
 ---
 
 今津から出艇し、琵琶湖の西岸を南下して北小松までツーリングした。海況は霧が濃くて静か。流出して流れ着いた特定外来生物のオオフサモの株が所々にある。

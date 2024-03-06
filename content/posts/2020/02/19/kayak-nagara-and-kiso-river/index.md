@@ -5,18 +5,7 @@ author: kamataryo
 date: 2020-02-19 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 愛知県,伊勢湾,長良川,木曽川,川, 閘門,船頭平閘門,公共構造物, 海]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2020-02-19-kayak-nagara-and-kiso-river.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
----
-
-{% include geolonia-map.html %}
-
+geojson_path: /geojson/2020-02-19-kayak-nagara-and-kiso-river.geojson
 ---
 
 長良川と木曽川との間には国土交通省が管理する[船頭平閘門](https://www.cbr.mlit.go.jp/kisokaryu/sisetu/sendohira-detail.html)という閘門があり、一般の船舶が通行できるらしい。  

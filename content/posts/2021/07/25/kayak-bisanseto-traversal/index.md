@@ -5,13 +5,8 @@ author: kamataryo
 date: 2021-07-25 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 四国, 香川県, 岡山県, 高松市, 玉野市]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2021-07-25-kayak-bisanseto-traversal.geojson
+geojson_path: /geojson/2021-07-25-kayak-bisanseto-traversal.geojson
 ---
-
-{% include geolonia-map.html %}
 
 瀬戸内海をカヤックで横断した。この海域は備讃瀬戸と呼ばれていて、多くの島の間を複雑な潮流が流れている。また海域の中央は備讃瀬戸東航路と呼ばれていて大型船が大量に通行する。今回は岡山県の玉野市・宇野から出航し、航路をまたいで香川県の高松市まで瀬戸内海を横断した。
 

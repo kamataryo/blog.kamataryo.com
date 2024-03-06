@@ -5,19 +5,10 @@ author: kamataryo
 date: 2019-11-09 10:00:00 +0900
 categories: [トレッキング]
 tags: [旅行,山, 福井県,敦賀市,敦賀半島]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2019-11-09-mt-sazae-trekking.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
+geojson_path: /geojson/2019-11-09-mt-sazae-trekking.geojson
 ---
-
 敦賀半島の蠑螺ヶ岳と西方ヶ岳をトレッキング。
 
-{% include geolonia-map.html %}
 
 天気が良く、植物もたくさん見ることができた。
 

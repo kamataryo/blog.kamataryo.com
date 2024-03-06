@@ -5,22 +5,12 @@ author: kamataryo
 date: 2021-06-26 10:00:00 +0900
 categories: [トレッキング, 歩いてつなげる山の道]
 tags: [旅行, 滋賀県, 岐阜県 ,三重県 , 多賀町, 関ヶ原町,いなべ市, 鈴鹿山脈]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2021-06-26-suzuka-traversal-01.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
+geojson_path: /geojson/2021-06-26-suzuka-traversal-01.geojson
 ---
-
-{% include geolonia-map.html %}
 
 [前回](../ryozen-traversal)の続き。鈴鹿の山に入った。
 
 ---
-
 ## 五僧峠 - 三国岳
 
 五僧峠が鈴鹿山脈の最北らしい。前回はここを通り越して上石津長時に降りて行程を終了したので、今回はここから入山することにした。時間は7:00。
@@ -66,7 +56,6 @@ GeoloniaAttributes:
 {{< image_gallery image_dir_path="/img/posts/2021/06/26/06" >}}
 
 ---
-
 次は御在所まで行きたい。
 
 <dl>

@@ -5,19 +5,13 @@ author: kamataryo
 date: 2021-04-03 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 琵琶湖, 湖]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2021-04-03-kayak-inawashiro.geojson
+geojson_path: /geojson/2021-04-03-kayak-inawashiro.geojson
 ---
-
 福島県のほぼ中央にある猪苗代湖で春のカヤッキング。
 
 
-{% include geolonia-map.html %}
 
 ---
-
 猪苗代湖は磐梯山の南にある湖で、日本国内の淡水湖の中では琵琶湖に継ぐ2番目の大きさ。酸栄養湖で、生物相は乏しく、ウグイくらいしか住んでいない。水はとても澄んでいて美しい。
 
 湖周長は55kmほどらしく、今回は湖岸で1泊して周囲をぐるっと回ってみた。

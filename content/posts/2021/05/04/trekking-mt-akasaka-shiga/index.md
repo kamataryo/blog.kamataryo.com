@@ -5,17 +5,8 @@ author: kamataryo
 date: 2021-05-04 10:00:00 +0900
 categories: [トレッキング]
 tags: [旅行, 滋賀県,高島市,赤坂山,植物,高島トレイル,琵琶湖]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2021-05-04-trekking-mt-akasaka-shiga.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
+geojson_path: /geojson/2021-05-04-trekking-mt-akasaka-shiga.geojson
 ---
-
-{% include geolonia-map.html %}
 
 高島トレイルの一部になっている赤坂山に行ってきた。お花畑が有名らしく、花の百名山と呼ばれているらしい。
 
@@ -24,7 +15,6 @@ GeoloniaAttributes:
 たくさんの春の花を見ることができた。
 
 ---
-
 高島トレイルは日本海と太平洋の分水嶺になっていて、太平洋側は琵琶湖へ、日本海側は若狭湾に雨が注ぐ。今回は滋賀県のマキノ町側からのアプローチで、黒河峠を経由して赤坂峠にピストンした。黒河峠に至るマキノ林道は途中で車両通行止めになっていて、車止めから黒河峠までは2kmほど歩く必要がある。
 
 林道歩きではオオバキスミレの花や木の花などをたくさん見ることができた。木の花の写真はウリハダカエデの雄花序で、雌花序は花は下垂せずに上向きにつくらしい。雌雄異株だったり雌雄同株だったりするとのこと。

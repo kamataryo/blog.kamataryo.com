@@ -5,17 +5,8 @@ author: kamataryo
 date: 2020-06-04 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 琵琶湖,湖北,姉川,安曇川, 湖]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2020-06-04-kayak-biwako-crossing.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
+geojson_path: /geojson/2020-06-04-kayak-biwako-crossing.geojson
 ---
-
-{% include geolonia-map.html %}
 
 カヤックで琵琶湖を横断した。
 湖東姉川河口から湖西の安曇川河口を結ぶロングツーリングになった。  
@@ -24,7 +15,6 @@ GeoloniaAttributes:
 この時はGPSでのトラッキングをしていなかったため、写真の緯度経度をつなぎ合わせてラインを作って表示してみている。
 
 ---
-
 この日は終始薄ぼんやりとしていて、対岸までを見通すことはできなかった。  
 コンパスで方角を合わせてこぎ、岸が近くなったら地形で現在位置の当たりをつけてナビゲーションする。
 

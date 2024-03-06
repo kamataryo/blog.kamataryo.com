@@ -5,17 +5,8 @@ author: kamataryo
 date: 2021-05-08 10:00:00 +0900
 categories: [自転車]
 tags: [旅行, 滋賀県,岐阜県,米原市,揖斐川町,関ヶ原町,国見峠]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2021-05-08-bicycle-touring-kunimi-pass.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
+geojson_path: /geojson/2021-05-08-bicycle-touring-kunimi-pass.geojson
 ---
-
-{% include geolonia-map.html %}
 
 滋賀県と岐阜県をつなぐ国見峠に自転車でツーリングに行ってきた。国見峠のある林道国見線は頻繁に通行止めになっていて車で通過できることは少ない。今回も落石や崩落で車は通れない状態だったが、自転車やバイクなら岐阜県側に抜けることが可能だった。
 米原市側の登りは約11km程度。
@@ -35,7 +26,6 @@ GeoloniaAttributes:
 {{< image_gallery image_dir_path="/img/posts/2021/05/08/04" >}}
 
 ---
-
 自転車で長い距離を走ったのは久しぶり。ここのところ毎日ランニングしていて、iPhone のアクティビティアプリが推定してくれる VO2 max も上がっているのだが、それにもかかわらず今回は辛かったので、バイクの筋肉とランニングの筋肉は違うんだろう。
 
 <dl>

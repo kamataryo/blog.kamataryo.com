@@ -5,18 +5,7 @@ author: kamataryo
 date: 2020-06-25 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 能登半島,能登島,石川県 ,海]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2020-06-25-kayak-notojima.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
----
-
-{% include geolonia-map.html %}
-
+geojson_path: /geojson/2020-06-25-kayak-notojima.geojson
 ---
 
 居着きのイルカがいるらしい能登島でカヤック。

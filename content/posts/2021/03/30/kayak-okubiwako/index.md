@@ -5,18 +5,6 @@ author: kamataryo
 date: 2021-03-30 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 琵琶湖, 湖]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: "#point"
-  - key: zoom
-    value: 11
-  - key: lat
-    value: 35.417995
-  - key: lng
-    value: 136.184586
-  - key: marker
-    value: off
 ---
 
 <script id="point" type="json">
@@ -57,10 +45,8 @@ GeoloniaAttributes:
 
 琵琶湖でカヤックしてきた。葛籠尾崎でキャンプするつもりだったが、思いのほか強風だったため途中で引き返して日帰りツーリングになった。
 
-{% include geolonia-map.html %}
 
 ---
-
 琵琶湖の園地にはキャンプ・バーベキューが可能な園地がいくつかあり（禁止の場所もある）、最近はデイキャンプ客が多い。そんな長浜市に近い園地の 1 つから 14:00 に出艇。
 
 今日は黄砂がひどく、竹生島や葛籠尾崎はほとんど見えない。湖面は穏やかで、風も少し吹いているくらいだったが、姉川河口を越えて竹生島を左手に見るくらいになると急に風が吹き始め、波も高くなった。白波も立ち始めたので、これ以上は無謀だと判断して引き返した。

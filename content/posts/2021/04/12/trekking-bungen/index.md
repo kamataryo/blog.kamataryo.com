@@ -5,22 +5,12 @@ author: kamataryo
 date: 2021-04-12 10:00:00 +0900
 categories: [トレッキング]
 tags: [旅行, ブンゲン, 射能山, 植物, ツキノワグマ, アオゲラ, ヒカゲノカズラ, マンネンスギ]
-GeoloniaEmbed: true
-GeoloniaAttributes:
-  - key: geojson
-    value: /assets/geojson/2021-04-12-trekking-bungen.geojson
-  - key: cluster
-    value: off
-  - key: style
-    value: /assets/style.json
+geojson_path: /geojson/2021-04-12-trekking-bungen.geojson
 ---
-
 奥伊吹にある山、ブンゲン(射能山)のトレッキングの記録。ツキノワグマに遭遇。
 
-{% include geolonia-map.html %}
 
 ---
-
 ## 奥伊吹スキー場〜尾根へのとりつき
 
 奥伊吹スキー場からススキの斜面を巻きながら尾根を超えて南側の谷地帯に入った。この辺りは踏み跡が無いので、シカの獣道を辿りながら降りた。1年生の草本はまだほとんど生えていないが、沢沿いのトリカブトはかなり大きくなっている。
