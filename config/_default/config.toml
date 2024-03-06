@@ -1,0 +1,33 @@
+theme = 'blowfish'
+baseURL = 'https://blog.kamataryo.com'
+defaultContentLanguage = 'ja'
+enableRobotsTXT = true
+paginate = 10
+summaryLength = 0
+languageCode = 'ja'
+timeZone = 'Asia/Tokyo'
+title = 'Antarctic Char'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[permalinks]
+  posts = '/posts/:slug/'
+  pages = '/:slug/'
+
+[author]
+  # name = 'kamataryo'
+  image = 'img/author.png'
+  headline = 'ポスト・アポカリプスに備えるブログ。自然、野生生物、ブッシュクラフト、テック。'
+
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+googleAnalytics = 'G-GGCMESDNVR'
+
+# google_site_verification: google_meta_tag_verification # change to your verification string
