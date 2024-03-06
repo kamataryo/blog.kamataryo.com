@@ -28,6 +28,4 @@ home = [ "HTML", "RSS", "JSON" ]
   category = 'categories'
   tag = 'tags'
 
-googleAnalytics = 'G-GGCMESDNVR'
-
-# google_site_verification: google_meta_tag_verification # change to your verification string
+googleAnalytics = 'G-VH8ND2E5KN'
