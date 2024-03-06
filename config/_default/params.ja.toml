@@ -31,6 +31,8 @@ showTaxonomies = true
 
 showWordCount = false
 showReadingTime = false
+heroStyle = 'background'
+layoutBackgroundBlur = true
 
 [list]
 showSummary = true
