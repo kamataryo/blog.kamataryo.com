@@ -5,8 +5,8 @@ import imageminSvgo from "imagemin-svgo"
 import imageminMozjpeg from "imagemin-mozjpeg"
 import imageminGifsicle from "imagemin-gifsicle"
 
-const srcDir = "./static/img/**/*.{jpg,jpeg,png,gif,svg}";
-const outDir = "./static/img_out/**/*";
+const srcDir = "./content/posts/**/*.{jpg,jpeg,png,gif,svg}";
+const outDir = "./content/posts_out/**/*";
 
 const convertWebp = (targetFiles) => {
   imagemin([targetFiles], {
@@ -22,7 +22,7 @@ imagemin([srcDir], {
     imageminSvgo(),
   ],
   replaceOutputDir: (output) => {
-    return output.replace(/static\/img\//, "static/img_out/");
+    return output.replace(/content\/posts\//, "content/posts_out/");
   },
 }).then(() => {
   convertWebp(outDir);
