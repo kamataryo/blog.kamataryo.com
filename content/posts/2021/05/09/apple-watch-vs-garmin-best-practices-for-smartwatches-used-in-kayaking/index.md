@@ -39,7 +39,7 @@ Garmin の FENIX 6X にはタッチスクリーンは搭載されておらず、
 
 バッテリーの持ちは圧倒的に FENIX 6X。放っておいても 1 週間くらい動作するし、Dual Power モデルは太陽光でちょびっと充電してくれるのでさらに長持ちする。GPS が作動するアクティビティの計測をしながらだと 50 時間くらいは連続で動作するらしい。GPS 測位の頻度を抑える Expedition モードを使えばさらに長持ちする。バッテリー充電も早く、1 時間くらい車のシガーソケットにつないでおけば充電は 100% になっている。
 
-{% include figure.html src="/assets/img/posts/2021/05/09/00/solar.jpg" caption="充電されている" >}}
+{% include figure.html src="/assets/img/posts/2021/05/09/00/solar.webp" caption="充電されている" >}}
 
 一方で Apple Watch はどうしてもバッテリーがネック。通常動作なら 1 日でバッテリーは尽きる。アクティビティ計測で GPS の軌跡を採ると 3-4 時間でバッテリー切れになってしまう。試したことはないけれど、山で本気で使うなら 2 台持ちは必須だと思う。
 
@@ -71,7 +71,7 @@ Garmin の地図表示は優れていてさすが GPS デバイスのベンダ�
 
 Garmin の場合は GPX ファイルを取り出すのは簡単で、 Garmin Connect にダウンロードアイコンがある。
 
-![Garmin Connect から GPX ファイルをダウンロード](/assets/img/posts/2021/05/09/garmin-connect.png)
+![Garmin Connect から GPX ファイルをダウンロード](/assets/img/posts/2021/05/09/garmin-connect.webp)
 
 ### その他
 

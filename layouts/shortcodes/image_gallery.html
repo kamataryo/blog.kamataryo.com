@@ -34,7 +34,7 @@
 <ul class="image-gallery">
 
   {{ range readDir $true_image_dir_path }}
-  {{ if (findRE ".(png|jpe?g|JPE?G)$" .Name) }}
+  {{ if (findRE ".(png|jpe?g|JPE?G|webp)$" .Name) }}
   {{ $true_image_path := print $image_dir_path "/" .Name }}
   <li>
     <img class="image-gallery_image" src="{{ $true_image_path }}" />

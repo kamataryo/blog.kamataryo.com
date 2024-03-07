@@ -1,3 +1,6 @@
+// @file  Jekyll -> Hugo に移行する際に使ったもの。
+// slug を FrontMatter に追加するなど。
+
 const fs = require('fs/promises')
 
 const main = async () => {
