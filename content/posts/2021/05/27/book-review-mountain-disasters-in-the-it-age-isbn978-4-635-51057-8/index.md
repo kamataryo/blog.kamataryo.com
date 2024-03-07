@@ -12,4 +12,4 @@ tags: [アウトドア, 登山, テクノロジ]
 
 本書の大部分は現在のメインストリームになっているツール・サービスのリファレンスになっていて、これらを追いかけきれていない登山者におすすめ。
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=kamataryo09-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4635510573&linkId=3375ba4130651dc9831115969abaaf3d"></iframe>
+![書影](featured.webp)

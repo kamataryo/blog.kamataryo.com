@@ -12,4 +12,4 @@ Jono Bacon 著、 渋川 よしき 翻訳、[アート・オブ・コミュニ�
 
 2011年に翻訳された古い本だが、コミュニティマネージャー必携の一冊だと思う。
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=kamataryo09-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4873114950&linkId=63e2611177358ac4cb59b32c7490faae"></iframe>
+![](featured.webp)

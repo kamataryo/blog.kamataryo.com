@@ -15,9 +15,7 @@ Apple Watch と Garmin を使っている。これまで使っていた Apple Wa
 
 Garmin は FENIX 6X を使っている。カヤックや山などのフィールドに出る場合や、普段使いの観点から Apple Watch と Garmin をレビューしてみる。
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=kamataryo09-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B08J69F2YC&linkId=1a8f0cb1bcec5fbffc8ca3a4cc1e1a55&bc1=000000&amp;lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=kamataryo09-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B082KW8VP8&linkId=14edb7d0abea94fef95c85e0387f642b&bc1=000000&amp;lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+![](featured.webp)
 
 ---
 ### プラットフォーム
@@ -39,7 +37,7 @@ Garmin の FENIX 6X にはタッチスクリーンは搭載されておらず、
 
 バッテリーの持ちは圧倒的に FENIX 6X。放っておいても 1 週間くらい動作するし、Dual Power モデルは太陽光でちょびっと充電してくれるのでさらに長持ちする。GPS が作動するアクティビティの計測をしながらだと 50 時間くらいは連続で動作するらしい。GPS 測位の頻度を抑える Expedition モードを使えばさらに長持ちする。バッテリー充電も早く、1 時間くらい車のシガーソケットにつないでおけば充電は 100% になっている。
 
-{% include figure.html src="/assets/img/posts/2021/05/09/00/solar.webp" caption="充電されている" >}}
+![充電されている](/img/posts/2021/05/09/00/solar.webp)
 
 一方で Apple Watch はどうしてもバッテリーがネック。通常動作なら 1 日でバッテリーは尽きる。アクティビティ計測で GPS の軌跡を採ると 3-4 時間でバッテリー切れになってしまう。試したことはないけれど、山で本気で使うなら 2 台持ちは必須だと思う。
 
@@ -71,7 +69,7 @@ Garmin の地図表示は優れていてさすが GPS デバイスのベンダ�
 
 Garmin の場合は GPX ファイルを取り出すのは簡単で、 Garmin Connect にダウンロードアイコンがある。
 
-![Garmin Connect から GPX ファイルをダウンロード](/assets/img/posts/2021/05/09/garmin-connect.webp)
+![Garmin Connect から GPX ファイルをダウンロード](/img/posts/2021/05/09/garmin-connect.webp)
 
 ### その他
 
@@ -87,7 +85,6 @@ Garmin の[ボディバッテリー](https://www.garmin.co.jp/minisite/health/gu
 
 当初は Apple Watch をカヤックで使っていたが、バッテリーと地図表示の容易さの点から Garmin を使うようになった。半日以上のフィールド活動の際は Garmin にしている。トレースの吸い出しも、自作の謎アプリではなく公式が提供している機能でできるのも良い。一方で日常的なランニングや水泳などに Apple Watch を使っている。付けていても負担が少なく、決済機能の利便を採っている。
 
----
 [^0]: と言っても、縦走や長距離カヤックツーリングでは 1/25,000 地形図や海図は必携だろう
 [^1]: Apple の囲いの中ではあるけれど
 [^2]: 新型コロナウィルス感染症の重症化の判定に使えそうだと思ってしまいそうだが、医療用途として過剰な期待はしない方がいいと思う

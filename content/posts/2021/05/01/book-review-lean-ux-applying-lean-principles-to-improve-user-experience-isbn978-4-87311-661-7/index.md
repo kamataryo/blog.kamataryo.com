@@ -38,6 +38,4 @@ MVPのUXを検証する上でコアとなるのは一貫して顧客からのフ
 
 [Lean UX 第2版 ―アジャイルなチームによるプロダクト開発](https://www.amazon.co.jp/Lean-UX-E7-AC-AC2-E7-89-88-E2-80-95-E3-82-A2-E3-82-B8-E3-83-A3-E3-82-A4-E3-83-AB-E3-81-AA-E3-83-8/dp/4873118050/ref=dp_ob_title_bk)
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=kamataryo09-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4873116619&linkId=4c711acc671eb685b2e0f0bd2ad2b244"></iframe>
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=kamataryo09-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4873118050&linkId=0a77f16910e0f97f93e273a3abc83e39"></iframe>
+![](featured.webp)

@@ -22,6 +22,6 @@ geojson_path: /geojson/2019-11-09-mt-sazae-trekking.geojson
 
 {{< image_gallery image_dir_path="/img/posts/2019/11/09/03" >}}
 
-![パノラマ](/assets/img/posts/2019/11/09/panorama.webp)
+![パノラマ](/img/posts/2019/11/09/panorama.webp)
 
 ---

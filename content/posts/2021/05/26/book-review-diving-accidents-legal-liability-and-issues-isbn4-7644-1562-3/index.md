@@ -12,4 +12,4 @@ tags: [ダイビング, アウトドア]
 
 中立性について疑問を持つような Amazon レビューもあったりするが、ダイビング事故の法的責任という極めて狭い領域ではそのようなバランス感覚などは吹けば飛ぶようなものなのかもしれない。血を流す自己批判は絶対に必要だ。
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=kamataryo09-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4764415623&linkId=3df0ad78e3f4ceb066d869e40fa762f9"></iframe>
+![書影](featured.webp)
