@@ -1,5 +1,5 @@
 ---
-title: outdent@2 をリリースしました
+title: Outdent@2 をリリースしました
 slug: outdent-2
 author: kamataryo
 date: 2024-03-08 07:00:00 +0900
@@ -7,7 +7,7 @@ categories: [OSS]
 tags: [javascript, typescript, bun, Node.js]
 ---
 
-outdent というツールを作って公開しています。
+Outdent というツールを作って公開しています。
 
 {{< github repo="kamataryo/outdent" >}}
 
@@ -33,7 +33,7 @@ TypeScript の型定義がおかしくなっていたため修正し、また冗
 }
 ```
 
-outdent を使うと以下のように書くことができます。
+Outdent を使うと以下のように書くことができます。
 
 ```javascript
 import { outdent } from '@kamataryo/outdent'
@@ -52,11 +52,11 @@ import { outdent } from '@kamataryo/outdent'
 }
 ```
 
-私は outdent を CLI ツール出力に対するテストを書く際に使っているため、 npm publish して利用しています。
+私は Outdent を CLI ツール出力に対するテストを書く際に使っているため、 npm publish して利用しています。
 
-## outdent の実装
+## Outdent の実装
 
-outdent の特徴は、[**タグ付きテンプレートリテラル**](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Template_literals#%E3%82%BF%E3%82%B0%E4%BB%98%E3%81%8D%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88) という機能を使っていることです。この JavaScript の記法は [styled components](https://styled-components.com/) で知りました。 
+Outdent の特徴は、[**タグ付きテンプレートリテラル**](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Template_literals#%E3%82%BF%E3%82%B0%E4%BB%98%E3%81%8D%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88) という機能を使っていることです。この JavaScript の記法は [styled components](https://styled-components.com/) で知りました。 
 
 ```javascript
 // styled components の例
