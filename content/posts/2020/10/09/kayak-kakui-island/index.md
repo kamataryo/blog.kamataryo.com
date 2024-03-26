@@ -5,7 +5,7 @@ author: kamataryo
 date: 2020-10-09 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 瀬戸内海, 公共構造物, 海, 島渡り]
-geojson_path: /geojson/2020-10-09-kayak-kakui-island.geojson
+geojson_path: ./track.geojson
 ---
 岡山県日生町の有人島、鹿久居島（かくいじま）をカヤックで一周した。
 

@@ -5,7 +5,7 @@ author: kamataryo
 date: 2021-09-03 17:00:00 +0900
 categories: [トレッキング]
 tags: [旅行, 滋賀県, 三重県, 菰野町,甲賀市, 鈴鹿山脈, 歩いてつなげる山の道]
-geojson_path: /geojson/2021-09-03-trekking-yunoyama-onsen-to-akebihara.geojson
+geojson_path: ./track.geojson
 ---
 
 湯の山温泉から南下して、山中で1泊して安楽峠まで歩いた。本当は南鈴鹿を超えて柘植に出る予定だったけれど、GPS デバイスの充電ケーブルを忘れてしまっていて、雨できつかったので念の為甲賀市の山女原（あけびはら）にエスケープした。

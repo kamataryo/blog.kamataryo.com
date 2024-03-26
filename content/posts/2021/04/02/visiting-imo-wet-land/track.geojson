@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "葦毛湿原"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            137.450187,
+            34.746664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "山室湿原"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.336555,
+          35.362550
+        ]
+      }
+    }
+  ]
+}

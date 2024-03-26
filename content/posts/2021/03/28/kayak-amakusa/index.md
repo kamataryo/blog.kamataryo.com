@@ -5,7 +5,7 @@ author: kamataryo
 date: 2021-03-28 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 天草, 海, 島渡り, キャンプ]
-geojson_path: /geojson/2021-03-28-kayak-amakusa.geojson
+geojson_path: ./track.geojson
 ---
 天草諸島と九州に挟まれた八代海でカヤックツーリングをしてきた。
 

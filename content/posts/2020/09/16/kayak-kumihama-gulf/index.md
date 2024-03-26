@@ -5,7 +5,7 @@ author: kamataryo
 date: 2020-09-16 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 久美浜湾, 京丹後, 湖, キャンプ]
-geojson_path: /geojson/2020-09-16-kayak-kumihama-gulf.geojson
+geojson_path: ./track.geojson
 ---
 京丹後の久美浜湾でキャンプとカヤックしてきた。湾岸のかぶと山公園キャンプ場でオートキャンプし、2日かけて湾内をツーリングした。
 

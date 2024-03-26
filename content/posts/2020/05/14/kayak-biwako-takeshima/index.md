@@ -5,7 +5,7 @@ author: kamataryo
 date: 2020-05-14 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 琵琶湖, 湖, 島渡り]
-geojson_path: /geojson/2020-05-14-kayak-biwako-takeshima.geojson
+geojson_path: ./track.geojson
 ---
 琵琶湖の島の一つ、多景島でカヤックした。彦根から出艇し、上陸はせずにぐるっと回って帰ってきた。
 

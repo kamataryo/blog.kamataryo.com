@@ -5,7 +5,7 @@ author: kamataryo
 date: 2020-01-04 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 沖縄県,西表島,八重山, クイラ川, 海]
-geojson_path: /geojson/2020-01-04-kayak-iriomote-west.geojson
+geojson_path: ./track.geojson
 ---
 無人地帯の西表島西部に行くことは昔からのトピックで、シーカヤックなら簡単にアプローチできるのに気づいた。
 この頃はドライスーツがまだなかったので、低体温症の危険が少ない沖縄でカヤックをした。

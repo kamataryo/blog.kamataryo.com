@@ -5,7 +5,7 @@ author: kamataryo
 date: 2021-06-05 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 琵琶湖, 滋賀県, 長浜市, 湖, 葛籠尾崎, キャンプ]
-geojson_path: /geojson/2021-06-05-kayak-north-biwako-camp.geojson
+geojson_path: ./track.geojson
 ---
 
 先週末と同じく天気が良かった。葛籠尾崎でキャンプするのはずっと計画していたのだけれど、冬や春の琵琶湖の天気はとても変わりやすくてなかなか実現していなかった。車をどこにおくか問題もあり、何かと負担を感じる。

@@ -5,7 +5,7 @@ author: kamataryo
 date: 2021-05-08 10:00:00 +0900
 categories: [自転車]
 tags: [旅行, 滋賀県,岐阜県,米原市,揖斐川町,関ヶ原町,国見峠]
-geojson_path: /geojson/2021-05-08-bicycle-touring-kunimi-pass.geojson
+geojson_path: ./track.geojson
 ---
 
 滋賀県と岐阜県をつなぐ国見峠に自転車でツーリングに行ってきた。国見峠のある林道国見線は頻繁に通行止めになっていて車で通過できることは少ない。今回も落石や崩落で車は通れない状態だったが、自転車やバイクなら岐阜県側に抜けることが可能だった。

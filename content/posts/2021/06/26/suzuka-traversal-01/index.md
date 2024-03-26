@@ -5,7 +5,7 @@ author: kamataryo
 date: 2021-06-26 10:00:00 +0900
 categories: [トレッキング, 歩いてつなげる山の道]
 tags: [旅行, 滋賀県, 岐阜県 ,三重県 , 多賀町, 関ヶ原町,いなべ市, 鈴鹿山脈]
-geojson_path: /geojson/2021-06-26-suzuka-traversal-01.geojson
+geojson_path: ./track.geojson
 ---
 
 [前回](../ryozen-traversal)の続き。鈴鹿の山に入った。

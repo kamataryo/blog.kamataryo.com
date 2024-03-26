@@ -5,7 +5,7 @@ author: kamataryo
 date: 2021-04-03 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 琵琶湖, 湖]
-geojson_path: /geojson/2021-04-03-kayak-inawashiro.geojson
+geojson_path: ./track.geojson
 ---
 福島県のほぼ中央にある猪苗代湖で春のカヤッキング。
 

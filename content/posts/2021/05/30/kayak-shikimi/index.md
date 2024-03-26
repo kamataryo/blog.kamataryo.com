@@ -5,7 +5,7 @@ author: kamataryo
 date: 2021-05-30 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 若狭湾, 福井県, 若狭町, 食見海岸, 海]
-geojson_path: /geojson/2021-05-30-kayak-shikimi.geojson
+geojson_path: ./track.geojson
 ---
 
 梅雨の合間の久々の晴れの日だったので、食見海岸でカヤックした。

@@ -5,7 +5,7 @@ author: kamataryo
 date: 2020-12-26 10:00:00 +0900
 categories: [トレッキング]
 tags: [旅行, 西表島, カタツムリ, 植物]
-geojson_path: /geojson/2020-12-26-trekking-iriomote-otomi-trail.geojson
+geojson_path: ./track.geojson
 ---
 西表島の大富林道で植物観察とカタツムリ探し。この時は南風見田のキャンプ場に滞在していて、風が強くカヤックは難しい海況だった。キャンプ場の自転車で大富まで行き、前から気になっていた大富林道を歩いた。
 

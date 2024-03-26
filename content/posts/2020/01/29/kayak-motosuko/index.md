@@ -5,7 +5,7 @@ author: kamataryo
 date: 2020-01-29 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 本栖湖,山梨県, 湖]
-geojson_path: /geojson/2020-01-29-kayak-motosuko.geojson
+geojson_path: ./track.geojson
 ---
 本栖湖でカヤックしてきた。
 

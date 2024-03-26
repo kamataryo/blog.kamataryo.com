@@ -5,7 +5,7 @@ author: kamataryo
 date: 2019-11-09 10:00:00 +0900
 categories: [トレッキング]
 tags: [旅行,山, 福井県,敦賀市,敦賀半島]
-geojson_path: /geojson/2019-11-09-mt-sazae-trekking.geojson
+geojson_path: ./track.geojson
 ---
 敦賀半島の蠑螺ヶ岳と西方ヶ岳をトレッキング。
 

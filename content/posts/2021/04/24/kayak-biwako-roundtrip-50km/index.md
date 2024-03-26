@@ -5,7 +5,7 @@ author: kamataryo
 date: 2021-04-24 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 琵琶湖, 沖の白石, 沖島, 多景島, 白髭神社, 伊崎不動, 湖]
-geojson_path: /geojson/2021-04-24-kayak-biwako-roundtrip-50km.geojson
+geojson_path: ./track.geojson
 
 ---
 カヤックで長距離を漕ぐことは、海峡渡りなどの危険なことをする前に一度経験しておかないといけないと思っていて、天候が安定する春に琵琶湖で 1 日 50km を漕げるか試してみた。

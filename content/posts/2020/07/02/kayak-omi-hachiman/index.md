@@ -5,7 +5,7 @@ author: kamataryo
 date: 2020-07-02 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 滋賀県,近江八幡市,西湖,水郷巡り,琵琶湖]
-geojson_path: /geojson/2020-07-02-kayak-omi-hachiman.geojson
+geojson_path: ./track.geojson
 ---
 
 近江八幡の水郷でカヤックしてきた。  

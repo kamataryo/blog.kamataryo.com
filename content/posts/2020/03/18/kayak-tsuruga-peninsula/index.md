@@ -5,7 +5,7 @@ author: kamataryo
 date: 2020-03-18 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 敦賀半島,敦賀市,福井県, 海]
-geojson_path: /geojson/2020-03-18-kayak-tsuruga-peninsula.geojson
+geojson_path: ./track.geojson
 ---
 先週のリベンジの敦賀半島カヤックツーリング。キャンプできそうな無人海岸もいくつかある。水島まで言って引き返してきた。
 

@@ -5,7 +5,7 @@ author: kamataryo
 date: 2021-06-12 10:00:00 +0900
 categories: [トレッキング, 歩いてつなげる山の道]
 tags: [旅行, 滋賀県, 岐阜県, 米原市, 多賀町, 関ヶ原町, 鈴鹿山脈]
-geojson_path: /geojson/2021-06-12-ryozen-traversal.geojson
+geojson_path: ./track.geojson
 ---
 
 週末に山の道を歩いて繋げていき、行けるところまで行ってみたいと思っている。当面は鈴鹿の山を縦走し、中長期的には熊野古道まで行ってみたい。手始めに、鈴鹿山系の最北の山、霊仙山を縦走してきた。

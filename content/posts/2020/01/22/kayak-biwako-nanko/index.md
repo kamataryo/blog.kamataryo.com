@@ -5,7 +5,7 @@ author: kamataryo
 date: 2020-01-22 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 琵琶湖,南湖, 湖]
-geojson_path: /geojson/2020-01-22-kayak-biwako-nanko.geojson
+geojson_path: ./track.geojson
 ---
 冬の琵琶湖南湖でカヤック。琵琶湖大橋を目指した。
 

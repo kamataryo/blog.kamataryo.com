@@ -5,7 +5,7 @@ author: kamataryo
 date: 2020-03-07 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 琵琶湖,沖の白石, 滋賀県, 湖]
-geojson_path: /geojson/2020-03-07-kayak-biwako-okinoshiraishi.geojson
+geojson_path: ./track.geojson
 ---
 琵琶湖のほぼ中央には沖の白石という4つの岩がある。東西のどちらの湖岸からもかろうじて見えるくらいの小さい岩。安曇川の河口から沖の白石を目指してカヤックを漕いでみた。
 

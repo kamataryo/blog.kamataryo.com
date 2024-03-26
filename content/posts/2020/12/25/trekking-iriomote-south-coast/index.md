@@ -5,7 +5,7 @@ author: kamataryo
 date: 2020-12-25 10:00:00 +0900
 categories: [トレッキング]
 tags: [旅行, 西表島, トポ図]
-geojson_path: /geojson/2020-12-25-trekking-iriomote-south-coast.geojson
+geojson_path: ./track.geojson
 ---
 南風見田の浜から鹿川湾に至る西表島の南海岸は無人地帯で、恰好のトレッキングスポットになっている。カヤックで鹿川湾まで行きたかったが、風が強く難しいと判断し、日帰りで行けるところまで行ってみた。
 

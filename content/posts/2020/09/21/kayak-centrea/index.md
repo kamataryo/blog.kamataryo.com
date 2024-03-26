@@ -5,7 +5,7 @@ author: kamataryo
 date: 2020-09-21 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, セントレア, 海]
-geojson_path: /geojson/2020-09-21-kayak-centrea.geojson
+geojson_path: ./track.geojson
 ---
 中部国際空港 セントレアをカヤックで一周してきた。
 

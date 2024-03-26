@@ -5,7 +5,7 @@ author: kamataryo
 date: 2021-04-12 10:00:00 +0900
 categories: [トレッキング]
 tags: [旅行, ブンゲン, 射能山, 植物, ツキノワグマ, アオゲラ, ヒカゲノカズラ, マンネンスギ]
-geojson_path: /geojson/2021-04-12-trekking-bungen.geojson
+geojson_path: ./track.geojson
 ---
 奥伊吹にある山、ブンゲン(射能山)のトレッキングの記録。ツキノワグマに遭遇。
 

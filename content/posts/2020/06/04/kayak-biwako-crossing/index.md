@@ -5,7 +5,7 @@ author: kamataryo
 date: 2020-06-04 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 琵琶湖,湖北,姉川,安曇川, 湖]
-geojson_path: /geojson/2020-06-04-kayak-biwako-crossing.geojson
+geojson_path: ./track.geojson
 ---
 
 カヤックで琵琶湖を横断した。

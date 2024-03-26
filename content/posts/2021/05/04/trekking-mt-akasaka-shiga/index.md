@@ -5,7 +5,7 @@ author: kamataryo
 date: 2021-05-04 10:00:00 +0900
 categories: [トレッキング]
 tags: [旅行, 滋賀県,高島市,赤坂山,植物,高島トレイル,琵琶湖]
-geojson_path: /geojson/2021-05-04-trekking-mt-akasaka-shiga.geojson
+geojson_path: ./track.geojson
 ---
 
 高島トレイルの一部になっている赤坂山に行ってきた。お花畑が有名らしく、花の百名山と呼ばれているらしい。

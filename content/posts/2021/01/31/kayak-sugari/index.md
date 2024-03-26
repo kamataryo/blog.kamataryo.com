@@ -5,7 +5,7 @@ author: kamataryo
 date: 2021-01-31 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 紀伊半島, 海]
-geojson_path: /geojson/2021-01-31-kayak-sugari.geojson
+geojson_path: ./track.geojson
 ---
 尾鷲市の飛び地、須賀利へ行ってきた。須賀利の集落へは車で行くことができるが、山の向こうに須賀利大池という池があって、ここへは山を越えるか船を使う以外に行く術はない。今回は銚子川の河口からカヤックでアプローチした。
 

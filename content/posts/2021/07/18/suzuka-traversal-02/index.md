@@ -5,7 +5,7 @@ author: kamataryo
 date: 2021-07-18 10:00:00 +0900
 categories: [トレッキング, 歩いてつなげる山の道]
 tags: [旅行, 滋賀県, 岐阜県, 三重県, いなべ市, 菰野町, 御在所, 鈴鹿山脈]
-geojson_path: /geojson/2021-07-18-suzuka-traversal-02.geojson
+geojson_path: ./track.geojson
 ---
 
 [前回](../suzuka-traversal-01)の続き。藤原岳から入山して御在所を目指す。この日は前夜から雨で、下界は晴れていたようだけど稜線上はずっと曇りだだった。前回下った藤原岳の大貝戸登山道を上り、竜ヶ岳を目指す。

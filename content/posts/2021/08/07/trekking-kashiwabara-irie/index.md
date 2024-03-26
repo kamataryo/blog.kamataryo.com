@@ -5,7 +5,7 @@ author: kamataryo
 date: 2021-08-07 17:00:00 +0900
 categories: [トレッキング]
 tags: [旅行, 滋賀県, 米原市, 中山道, 歩いてつなげる山の道]
-geojson_path: /geojson/2021-08-07-trekking-kashiwabara-irie.geojson
+geojson_path: ./track.geojson
 ---
 
 柏原から入江まで、中山道を歩いた。最高気温39°C の凄まじい暑さだった。

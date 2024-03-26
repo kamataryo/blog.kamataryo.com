@@ -5,7 +5,7 @@ author: kamataryo
 date: 2020-03-14 10:00:00 +0900
 categories: [カヤック]
 tags: [旅行, 敦賀半島,敦賀市,福井県, 海]
-geojson_path: /geojson/2020-03-14-kayak-tsuruga-gulf.geojson
+geojson_path: ./track.geojson
 ---
 敦賀湾で強風カヤック。
 
