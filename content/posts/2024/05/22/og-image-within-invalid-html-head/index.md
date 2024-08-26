@@ -11,7 +11,7 @@ OGP を表示する `meta[property=og:image]` が Twitter Card では認識さ�
 
 ---
 
-以下のような `head>meta[property=og:image]` 要素を記述した際に Facebook では　OGP 画像が表示されない一方、Twitter では正しく表示されました。
+以下のような `head>meta[property=og:image]` 要素を記述した際に Facebook では OGP 画像が表示されない一方、Twitter では正しく表示されました。
 Facebook シェアデバッガー では `推測されるプロパティ値が他のタグから推測される場合でも、og:imageプロパティは明示的に指定してください。` というメッセージが表示されていました。
 
 ```html

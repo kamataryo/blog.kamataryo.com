@@ -55,7 +55,7 @@ Garmin の地図表示は優れていてさすが GPS デバイスのベンダ�
 
 アプリについてはプラットフォーマーの Apple Watch の圧勝。例えばヤマレコの開発者も WatchOS 用アプリの開発に力を入れているようで、機能のリリース速度は速く、よく Twitter で機能追加をアナウンスしてくれる。地図読みや GPS の利用に不慣れな登山者は多いはずで、例えばこのルート外れ警告機能は革命的だろう。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【ヤマレコアプリ　PR】<br>安全に関わる機能「逸脱警告」（ルート外れ警告）は誰でも使えます。<br><br>道迷いを防ぐのに一番大事なことは、<br>いち早くルートから外れたことに気づくこと！<br><br>逸脱（ルート外れ）警告は道迷い遭難をなくす大事な機能。<br>誰でもルートをダウンロードしていれば使えます。 <a href="https://t.co/c0iBFS2kWp">pic.twitter.com/c0iBFS2kWp</a></p>&mdash; ヤマレコ (@yamareco) <a href="https://twitter.com/yamareco/status/1390558744820387841?ref_src=twsrc%5Etfw">May 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【ヤマレコアプリ PR】<br>安全に関わる機能「逸脱警告」（ルート外れ警告）は誰でも使えます。<br><br>道迷いを防ぐのに一番大事なことは、<br>いち早くルートから外れたことに気づくこと！<br><br>逸脱（ルート外れ）警告は道迷い遭難をなくす大事な機能。<br>誰でもルートをダウンロードしていれば使えます。 <a href="https://t.co/c0iBFS2kWp">pic.twitter.com/c0iBFS2kWp</a></p>&mdash; ヤマレコ (@yamareco) <a href="https://twitter.com/yamareco/status/1390558744820387841?ref_src=twsrc%5Etfw">May 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ヤマレコの中の人は登山が好きなようで、ガチのフィールド活動の実践者が市場に自由に[^1]参入できるようになっているのは Apple Watch の強みだと思う。Garmin も一応アプリ開発はできるけれども、残念ながらプラットフォーマーの Apple には対抗できない部分だろう。
 

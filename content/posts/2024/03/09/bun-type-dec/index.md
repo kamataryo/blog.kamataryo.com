@@ -33,7 +33,7 @@ https://github.com/oven-sh/bun/issues/5141#issuecomment-1716640660
 $ tsc --emitDeclarationOnly
 ```
 
-bun の build コマンドは tsconfig に依存しないので型定義のみの　tsconfig を作成し、bun のビルド時に同時に型定義を出力するようにします。
+bun の build コマンドは tsconfig に依存しないので型定義のみの tsconfig を作成し、bun のビルド時に同時に型定義を出力するようにします。
 以下は `./src` 以下の TypeScript のコードに対して `./dist` ディレクトリに型定義を出力するための tsconfig の例になります。
 
 ```json

@@ -23,5 +23,5 @@ geojson_path: ./track.geojson
 <dl>
 <dt>距離</dt><dd>4.39 km</dd>
 <dt>タイム</dt><dd>1 時間 49 分</dd>
-<dt>獲得標高</dt><dd>381　m</dd>
+<dt>獲得標高</dt><dd>381 m</dd>
 </dl>

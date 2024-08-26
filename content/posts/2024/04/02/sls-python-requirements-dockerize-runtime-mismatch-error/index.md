@@ -6,7 +6,7 @@ categories = ['コーディング']
 tags = ['AWS', 'Serverless Framework', 'Python', 'Docker', 'Node.js', 'JavaScript']
 +++
 
-[Serverless Framework](https://serverless.com/) は主に JavaScript のランタイムで使われることが多いと思いますが、最近 Python ランタイムの Lambda 関数を作成する必要があり、 [serverless-python-requirements](https://www.serverless.com/plugins/serverless-python-requirements) というライブラリを使って　Python のコードをデプロイしています。このライブラリで `custom.pythonRequirements.dockerizePip: true` というオプションを有効化すると、 `requirements.txt` の依存関係を Linux のコンテナでクロスビルドしてくれるため便利です。
+[Serverless Framework](https://serverless.com/) は主に JavaScript のランタイムで使われることが多いと思いますが、最近 Python ランタイムの Lambda 関数を作成する必要があり、 [serverless-python-requirements](https://www.serverless.com/plugins/serverless-python-requirements) というライブラリを使って Python のコードをデプロイしています。このライブラリで `custom.pythonRequirements.dockerizePip: true` というオプションを有効化すると、 `requirements.txt` の依存関係を Linux のコンテナでクロスビルドしてくれるため便利です。
 クロスビルド時にあるエラーに遭遇したのでそのメモを記載します。
 
 ---
@@ -115,5 +115,5 @@ functions:
     handler: handler_js.main
 ```
 
-今回、利用する　Python のランタイムの種類が1つだけだったので問題ありませんでした。
-複数の種類の　Python ランタイムを利用して requirements.txt の依存関係をクロスビルドしたい場合、serverless-python-requirements　を利用するのは難しいと思われます。
+今回、利用する Python のランタイムの種類が1つだけだったので問題ありませんでした。
+複数の種類の Python ランタイムを利用して requirements.txt の依存関係をクロスビルドしたい場合、serverless-python-requirements を利用するのは難しいと思われます。
